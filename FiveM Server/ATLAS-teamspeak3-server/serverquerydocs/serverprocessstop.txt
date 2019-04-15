@@ -1,0 +1,13 @@
+Usage: serverprocessstop [reasonmsg={text}]
+
+Permissions:
+  b_serverinstance_stop
+
+Description:
+  Stops the entire TeamSpeak 3 Server instance by shutting down the process.
+  The reasonmsg parameter specifies a text message that is sent to the clients
+  before the client disconnects.
+
+Example:
+  serverprocessstop reasonmsg=5\sminute\smaintenance
+  error id=0 msg=ok

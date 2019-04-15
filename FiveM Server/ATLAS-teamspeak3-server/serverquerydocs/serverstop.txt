@@ -1,0 +1,15 @@
+Usage: serverstop sid={serverID} [reasonmsg={text}]
+
+Permissions:
+  b_virtualserver_stop_any
+  b_virtualserver_stop
+
+Description:
+  Stops the virtual server specified with sid. Depending on your permissions,
+  you're able to stop either your own virtual server only or all virtual
+  servers in the server instance. The reasonmsg parameter specifies a 
+  text message that is sent to the clients before the client disconnects.
+
+Example:
+  serverstop sid=1 reasonmsg=subscription\sexpired
+  error id=0 msg=ok

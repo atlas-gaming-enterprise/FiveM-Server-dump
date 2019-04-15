@@ -1,0 +1,12 @@
+Usage: customset cldbid={clientDBID} ident={ident} value={value}
+
+Permissions:
+  b_client_modify_dbproperties
+
+Description:
+  Creates or updates a custom property for client specified by the cldbid. 
+  Ident and value can be any value, and are the key value pair of the custom property.
+  
+Example:
+  customset cldbid=4 ident=forum_nickname value=John\sDoe
+  error id=0 msg=ok
