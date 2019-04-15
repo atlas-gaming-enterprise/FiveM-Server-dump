@@ -1,0 +1,412 @@
+﻿2019-01-11 15:11:37.190532|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2019-01-11 15:15:24.177474|INFO    |VirtualServerBase|1  |client connected 'TeamSpeakUser'(id:4) using a myTeamSpeak ID from 192.168.0.1:53425
+2019-01-11 15:15:26.263394|INFO    |VirtualServerBase|1  |client disconnected 'TeamSpeakUser'(id:4) reason 'reasonmsg=leaving'
+2019-01-11 15:15:26.316336|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:53425
+2019-01-11 19:08:33.616134|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:64768
+2019-01-11 20:29:57.976510|INFO    |VirtualServerBase|1  |client connected 'Nelson Kuroki'(id:34) using a myTeamSpeak ID from 192.168.0.1:52227
+2019-01-11 20:29:58.074509|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:00.182423|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:01.969251|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:01.980304|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:01.981284|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:01.981284|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:01.993289|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.046042|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.046042|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.046042|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.046042|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2403989947' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.046985|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.063036|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.064041|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:30:06.090989|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'Nelson Kuroki'(id:34)
+2019-01-11 20:58:03.733964|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Assistant Director'(id:14) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:09.316400|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Community Leader'(id:18) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:22.124567|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Air Unit'(id:47) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:22.132581|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986627059' by client 'Nelson Kuroki'(id:34)
+2019-01-12 00:02:22.154581|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986627059' by client 'Alpha'(id:33)
+2019-01-12 00:02:26.779264|INFO    |VirtualServer |1  |client (id:34) was added to servergroup '==Specialized Units=='(id:46) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:31.606957|INFO    |VirtualServer |1  |client (id:34) was removed from servergroup 'Air Unit'(id:47) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:36.335643|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Special Field Agent'(id:99) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:40.266387|INFO    |VirtualServer |1  |client (id:34) was added to servergroup '==Training=='(id:65) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:43.696164|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Firearms Qualified'(id:66) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:47.808903|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Tazer Qualified'(id:67) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:02:52.247625|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'C2/C3 Certification'(id:73) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:03:15.922069|INFO    |VirtualServer |1  |client (id:33) was removed from servergroup 'LEO Temp.'(id:76) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:03:22.920621|INFO    |VirtualServer |1  |client (id:33) was added to servergroup '==San Andreas LEO=='(id:25) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:03:22.951622|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'Alpha'(id:33)
+2019-01-12 00:03:34.404873|INFO    |VirtualServer |1  |client (id:33) was added to servergroup 'SASD Sheriff'(id:38) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:03:34.435873|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'Alpha'(id:33)
+2019-01-12 00:03:59.827216|INFO    |VirtualServer |1  |client (id:34) was added to servergroup '==San Andreas LEO=='(id:25) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:03:59.835215|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'Nelson Kuroki'(id:34)
+2019-01-12 00:04:08.227671|INFO    |VirtualServer |1  |client (id:34) was added to servergroup 'Lieutenant'(id:30) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 00:04:08.238667|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'Nelson Kuroki'(id:34)
+2019-01-12 00:04:08.262668|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'Alpha'(id:33)
+2019-01-12 00:31:27.983073|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'Nelson Kuroki'(id:34)
+2019-01-12 01:27:12.366633|INFO    |VirtualServerBase|1  |client disconnected 'Nelson Kuroki'(id:34) reason 'reasonmsg=leaving'
+2019-01-12 01:42:28.636082|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-12 01:51:13.298911|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:57412
+2019-01-12 01:51:17.907612|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-12 01:56:04.397984|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:65331
+2019-01-12 01:56:21.330884|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-12 17:19:57.240753|INFO    |VirtualServerBase|1  |client connected 'Nelson Kuroki'(id:34) using a myTeamSpeak ID from 192.168.0.1:62771
+2019-01-12 17:40:30.620619|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:35) from 81.186.253.249:57287
+2019-01-12 17:40:31.269573|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'K2K'(id:35)
+2019-01-12 17:40:31.500561|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'K2K'(id:35)
+2019-01-12 17:40:32.016525|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'K2K'(id:35)
+2019-01-12 17:40:32.016525|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'K2K'(id:35)
+2019-01-12 17:40:32.017487|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'K2K'(id:35)
+2019-01-12 17:40:32.017487|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'K2K'(id:35)
+2019-01-12 17:40:32.017487|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'K2K'(id:35)
+2019-01-12 17:40:32.593431|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'K2K'(id:35)
+2019-01-12 17:40:32.595468|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'K2K'(id:35)
+2019-01-12 17:40:32.597435|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'K2K'(id:35)
+2019-01-12 17:40:32.673471|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'K2K'(id:35)
+2019-01-12 17:40:33.059457|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'K2K'(id:35)
+2019-01-12 17:40:33.132455|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'K2K'(id:35)
+2019-01-12 17:42:35.336507|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'K2K'(id:35)
+2019-01-12 17:42:35.336507|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'K2K'(id:35)
+2019-01-12 17:42:35.337469|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_888699871' by client 'K2K'(id:35)
+2019-01-12 17:42:35.337469|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'K2K'(id:35)
+2019-01-12 17:42:35.337469|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3062257508' by client 'K2K'(id:35)
+2019-01-12 17:42:35.826482|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2198526597' by client 'K2K'(id:35)
+2019-01-12 17:42:35.827490|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'K2K'(id:35)
+2019-01-12 17:42:35.835474|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'K2K'(id:35)
+2019-01-12 17:42:35.844464|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_746379343' by client 'K2K'(id:35)
+2019-01-12 17:42:35.851473|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2879214217' by client 'K2K'(id:35)
+2019-01-12 17:42:36.298444|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2888068105' by client 'K2K'(id:35)
+2019-01-12 17:42:36.307431|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3133210745' by client 'K2K'(id:35)
+2019-01-12 17:42:36.308428|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_478832049' by client 'K2K'(id:35)
+2019-01-12 17:42:36.353441|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_206560669' by client 'K2K'(id:35)
+2019-01-12 17:42:36.750414|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_808654778' by client 'K2K'(id:35)
+2019-01-12 17:42:36.776413|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_671141899' by client 'K2K'(id:35)
+2019-01-12 17:42:36.792412|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'K2K'(id:35)
+2019-01-12 17:42:36.801406|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_172477792' by client 'K2K'(id:35)
+2019-01-12 17:42:37.251359|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'K2K'(id:35)
+2019-01-12 17:42:37.268384|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_85368941' by client 'K2K'(id:35)
+2019-01-12 17:42:37.280365|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2314398147' by client 'K2K'(id:35)
+2019-01-12 17:42:37.760349|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986627059' by client 'K2K'(id:35)
+2019-01-12 17:42:37.764303|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_87243971' by client 'K2K'(id:35)
+2019-01-12 17:42:37.773347|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'K2K'(id:35)
+2019-01-12 17:42:38.216265|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'K2K'(id:35)
+2019-01-12 17:42:38.232318|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2210940942' by client 'K2K'(id:35)
+2019-01-12 17:42:38.255327|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'K2K'(id:35)
+2019-01-12 17:42:38.675292|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3675598897' by client 'K2K'(id:35)
+2019-01-12 17:42:38.692288|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2647785850' by client 'K2K'(id:35)
+2019-01-12 17:42:38.742288|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3201618383' by client 'K2K'(id:35)
+2019-01-12 17:42:39.151258|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_125039526' by client 'K2K'(id:35)
+2019-01-12 17:42:39.160258|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_925789444' by client 'K2K'(id:35)
+2019-01-12 17:42:39.198255|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3782301228' by client 'K2K'(id:35)
+2019-01-12 17:42:39.604262|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2695360418' by client 'K2K'(id:35)
+2019-01-12 17:42:39.645203|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1754528451' by client 'K2K'(id:35)
+2019-01-12 17:42:39.657217|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_475659083' by client 'K2K'(id:35)
+2019-01-12 17:42:40.063185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_250997313' by client 'K2K'(id:35)
+2019-01-12 17:42:40.143197|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2764044660' by client 'K2K'(id:35)
+2019-01-12 17:42:40.159180|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2295463579' by client 'K2K'(id:35)
+2019-01-12 17:42:40.519116|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2687556238' by client 'K2K'(id:35)
+2019-01-12 17:42:40.602204|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_423150974' by client 'K2K'(id:35)
+2019-01-12 17:42:40.651164|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2403989947' by client 'K2K'(id:35)
+2019-01-12 17:42:40.971140|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3768757978' by client 'K2K'(id:35)
+2019-01-12 17:42:41.113131|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3897558906' by client 'K2K'(id:35)
+2019-01-12 17:42:41.114074|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_278659660' by client 'K2K'(id:35)
+2019-01-12 17:42:41.428073|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2866804287' by client 'K2K'(id:35)
+2019-01-12 17:42:41.612099|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3911561361' by client 'K2K'(id:35)
+2019-01-12 17:42:41.922050|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2003727143' by client 'K2K'(id:35)
+2019-01-12 17:42:42.076107|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3692269475' by client 'K2K'(id:35)
+2019-01-12 17:42:42.392048|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3739044781' by client 'K2K'(id:35)
+2019-01-12 17:42:42.561037|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'K2K'(id:35)
+2019-01-12 17:42:42.874004|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_463254636' by client 'K2K'(id:35)
+2019-01-12 17:42:43.031950|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'K2K'(id:35)
+2019-01-12 17:42:43.357985|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2477954463' by client 'K2K'(id:35)
+2019-01-12 17:42:43.489977|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4276461003' by client 'K2K'(id:35)
+2019-01-12 17:42:43.855953|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1726201570' by client 'K2K'(id:35)
+2019-01-12 17:42:43.936905|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_312964519' by client 'K2K'(id:35)
+2019-01-12 17:43:04.973586|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'SASD Sheriff'(id:38) by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:43:17.898740|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'K9 Unit'(id:51) by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:43:17.903740|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:43:27.734110|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'Detective Bureau'(id:50) by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:43:27.739045|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:43:40.538272|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'Firearms Qualified'(id:66) by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:43:44.084040|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'Tazer Qualified'(id:67) by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:44:10.829243|INFO    |VirtualServerBase|1  |client 'K2K'(id:35) changed myTeamSpeak ID
+2019-01-12 17:44:21.173652|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:35) reason 'reasonmsg=leaving'
+2019-01-12 17:44:35.898614|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:35) using a myTeamSpeak ID from 81.186.253.249:57287
+2019-01-12 17:45:47.970984|INFO    |VirtualServer |1  |client (id:35) was added to servergroup '==San Andreas LEO=='(id:25) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 17:45:53.330637|INFO    |VirtualServer |1  |client (id:35) was added to servergroup '==Specialized Units=='(id:46) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 17:45:57.591356|INFO    |VirtualServer |1  |client (id:35) was added to servergroup '==Training=='(id:65) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 17:46:06.960752|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'C2/C3 Certification'(id:73) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 17:46:16.912106|INFO    |VirtualServer |1  |client (id:35) was added to servergroup 'Senior Member'(id:20) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 17:46:16.922109|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'Nelson Kuroki'(id:34)
+2019-01-12 17:46:18.176018|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:35) reason 'reasonmsg=leaving'
+2019-01-12 17:46:19.902851|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:35) using a myTeamSpeak ID from 81.186.253.249:57287
+2019-01-12 18:38:15.002902|INFO    |VirtualServerBase|1  |client connected 'Ernesto Poncheco'(id:36) from 68.36.2.219:62726
+2019-01-12 18:38:15.193902|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.253839|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.488863|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.489823|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.489823|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.489823|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.489823|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.634873|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.660812|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.685867|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.707809|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.768862|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.798820|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.848857|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.894858|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.941850|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:15.975848|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:22.548366|INFO    |VirtualServerBase|1  |client connected 'Chow'(id:37) from 24.220.74.124:63863
+2019-01-12 18:38:23.000336|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Chow'(id:37)
+2019-01-12 18:38:23.268377|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'Chow'(id:37)
+2019-01-12 18:38:23.268377|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'Chow'(id:37)
+2019-01-12 18:38:23.268377|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'Chow'(id:37)
+2019-01-12 18:38:23.268377|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'Chow'(id:37)
+2019-01-12 18:38:23.269337|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'Chow'(id:37)
+2019-01-12 18:38:23.528301|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'Chow'(id:37)
+2019-01-12 18:38:23.554299|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'Chow'(id:37)
+2019-01-12 18:38:23.572298|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'Chow'(id:37)
+2019-01-12 18:38:23.590356|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'Chow'(id:37)
+2019-01-12 18:38:23.628295|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'Chow'(id:37)
+2019-01-12 18:38:23.764319|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'Chow'(id:37)
+2019-01-12 18:38:23.816283|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'Chow'(id:37)
+2019-01-12 18:38:23.835337|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'Chow'(id:37)
+2019-01-12 18:38:23.856280|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'Chow'(id:37)
+2019-01-12 18:38:23.984270|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'Chow'(id:37)
+2019-01-12 18:38:26.689178|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Chow'(id:37)
+2019-01-12 18:38:54.372355|INFO    |VirtualServer |1  |client (id:37) was added to servergroup 'Member'(id:21) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 18:38:54.421388|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:38:54.500343|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'Chow'(id:37)
+2019-01-12 18:38:58.307101|INFO    |VirtualServer |1  |client (id:36) was added to servergroup 'Member'(id:21) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 18:39:05.225648|INFO    |VirtualServer |1  |client (id:36) was added to servergroup '==Civilian=='(id:78) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 18:39:08.012430|INFO    |VirtualServer |1  |client (id:37) was added to servergroup '==Civilian=='(id:78) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 18:39:17.210870|INFO    |VirtualServer |1  |client (id:37) was added to servergroup 'Civilian'(id:88) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 18:39:17.258866|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:39:17.313803|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'Chow'(id:37)
+2019-01-12 18:39:21.122559|INFO    |VirtualServer |1  |client (id:36) was added to servergroup 'Civilian'(id:88) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 18:40:11.212356|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:40:11.659326|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 18:40:11.689268|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 19:09:40.193337|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'Nelson Kuroki'(id:34)
+2019-01-12 19:09:40.194280|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'Nelson Kuroki'(id:34)
+2019-01-12 19:13:45.647321|INFO    |VirtualServerBase|1  |client connected 'Marsendji'(id:38) from 166.173.248.188:35693
+2019-01-12 19:13:46.868241|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Marsendji'(id:38)
+2019-01-12 19:13:46.887262|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.180235|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.180235|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.180235|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.578201|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.585223|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.691228|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.784238|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'Marsendji'(id:38)
+2019-01-12 19:13:47.785229|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'Marsendji'(id:38)
+2019-01-12 19:13:48.103195|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'Marsendji'(id:38)
+2019-01-12 19:13:48.197183|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'Marsendji'(id:38)
+2019-01-12 19:13:48.613128|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'Marsendji'(id:38)
+2019-01-12 19:13:48.708130|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'Marsendji'(id:38)
+2019-01-12 19:13:49.114152|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'Marsendji'(id:38)
+2019-01-12 19:13:49.115095|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'Marsendji'(id:38)
+2019-01-12 19:13:49.115095|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'Marsendji'(id:38)
+2019-01-12 19:13:51.076010|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'Marsendji'(id:38)
+2019-01-12 19:13:51.076010|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'Marsendji'(id:38)
+2019-01-12 19:14:26.996689|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'Marsendji'(id:38)
+2019-01-12 19:14:27.216677|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Marsendji'(id:38)
+2019-01-12 19:14:27.216677|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'Marsendji'(id:38)
+2019-01-12 19:18:54.060267|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:63829
+2019-01-12 19:18:54.454299|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'Alpha'(id:33)
+2019-01-12 19:18:54.454299|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'Alpha'(id:33)
+2019-01-12 19:18:54.454299|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'Alpha'(id:33)
+2019-01-12 19:18:55.885149|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'Alpha'(id:33)
+2019-01-12 19:18:55.886149|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'Alpha'(id:33)
+2019-01-12 19:18:58.694023|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Chow'(id:37)
+2019-01-12 19:20:34.460801|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:35) reason 'reasonmsg=leaving'
+2019-01-12 20:11:58.102245|INFO    |VirtualServerBase|1  |client connected 'WARPIGGIE'(id:39) from 174.116.23.94:64864
+2019-01-12 20:11:58.244289|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:02.779994|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.278001|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.283919|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.284905|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.284905|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.284905|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.364941|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.364941|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.364941|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.371940|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.392940|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.436896|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.436896|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.473952|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.481952|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:03.487894|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:12:40.188505|INFO    |VirtualServer |1  |client (id:38) was added to servergroup 'Member'(id:21) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:12:43.729336|INFO    |VirtualServer |1  |client (id:38) was added to servergroup '==Civilian=='(id:78) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:12:47.312080|INFO    |VirtualServer |1  |client (id:38) was added to servergroup 'Civilian'(id:88) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:12:50.935807|INFO    |VirtualServer |1  |client (id:39) was added to servergroup 'Senior Member'(id:20) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:12:50.975861|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'WARPIGGIE'(id:39)
+2019-01-12 20:30:14.824008|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1754528451' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:30:14.828027|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3768757978' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:30:14.828933|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2866804287' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:30:14.829934|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2003727143' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:30:14.829934|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3692269475' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:30:14.876933|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_463254636' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 20:30:14.876933|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 21:19:36.506414|INFO    |VirtualServerBase|1  |client disconnected 'WARPIGGIE'(id:39) reason 'reasonmsg=leaving'
+2019-01-12 21:19:36.719354|INFO    |VirtualServerBase|1  |client connected 'WARPIGGIE'(id:39) from 174.116.23.94:64864
+2019-01-12 21:20:41.188217|INFO    |VirtualServerBase|1  |client disconnected 'WARPIGGIE'(id:39) reason 'reasonmsg=leaving'
+2019-01-12 21:20:41.420145|INFO    |VirtualServerBase|1  |client connected 'Daniel Kuroki | 5-L-50'(id:39) from 174.116.23.94:64864
+2019-01-12 22:08:22.335188|INFO    |VirtualServerBase|1  |client disconnected 'Nelson Kuroki'(id:34) reason 'reasonmsg=leaving'
+2019-01-12 22:08:24.774970|INFO    |VirtualServerBase|1  |client connected 'Nelson Kuroki'(id:34) using a myTeamSpeak ID from 192.168.0.1:1031
+2019-01-12 22:12:04.670706|INFO    |VirtualServer |1  |client (id:39) was added to servergroup '==San Andreas LEO=='(id:25) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:09.131430|INFO    |VirtualServer |1  |client (id:39) was added to servergroup 'Probationary Officer'(id:34) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:09.136384|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'Nelson Kuroki'(id:34)
+2019-01-12 22:12:09.162428|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'Daniel Kuroki | 5-L-50'(id:39)
+2019-01-12 22:12:09.176436|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 22:12:09.199378|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'Chow'(id:37)
+2019-01-12 22:12:09.365387|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'Marsendji'(id:38)
+2019-01-12 22:12:13.251154|INFO    |VirtualServer |1  |client (id:39) was added to servergroup '==Specialized Units=='(id:46) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:18.416787|INFO    |VirtualServer |1  |client (id:39) was added to servergroup 'Traffic Unit'(id:53) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:18.422808|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Nelson Kuroki'(id:34)
+2019-01-12 22:12:18.449790|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Daniel Kuroki | 5-L-50'(id:39)
+2019-01-12 22:12:18.461777|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Ernesto Poncheco'(id:36)
+2019-01-12 22:12:18.477832|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Chow'(id:37)
+2019-01-12 22:12:18.578825|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Marsendji'(id:38)
+2019-01-12 22:12:22.699560|INFO    |VirtualServer |1  |client (id:39) was added to servergroup '==Training=='(id:65) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:25.339388|INFO    |VirtualServer |1  |client (id:39) was added to servergroup 'Firearms Qualified'(id:66) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:28.416204|INFO    |VirtualServer |1  |client (id:39) was added to servergroup 'Tazer Qualified'(id:67) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:12:35.426732|INFO    |VirtualServer |1  |client (id:39) was added to servergroup 'C2/C3 Certification'(id:73) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-12 22:13:42.394319|INFO    |VirtualServerBase|1  |client disconnected 'Daniel Kuroki | 5-L-50'(id:39) reason 'reasonmsg=leaving'
+2019-01-12 22:14:43.532347|INFO    |VirtualServerBase|1  |client connected 'WARPIGGIE'(id:39) from 174.116.23.94:58560
+2019-01-12 22:15:34.701048|INFO    |VirtualServerBase|1  |client disconnected 'WARPIGGIE'(id:39) reason 'reasonmsg=leaving'
+2019-01-12 22:15:34.882005|INFO    |VirtualServerBase|1  |client connected 'Daniel Kuroki | 1-L-50'(id:39) from 174.116.23.94:58560
+2019-01-12 22:15:37.520887|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'Alpha'(id:33)
+2019-01-12 22:15:38.003802|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Alpha'(id:33)
+2019-01-12 22:27:54.720901|INFO    |VirtualServerBase|1  |client disconnected 'Ernesto Poncheco'(id:36) reason 'reasonmsg=leaving'
+2019-01-12 22:30:47.115748|INFO    |VirtualServerBase|1  |client disconnected 'Chow'(id:37) reason 'reasonmsg=leaving'
+2019-01-12 22:44:50.175875|INFO    |VirtualServerBase|1  |client disconnected 'Marsendji'(id:38) reason 'reasonmsg=leaving'
+2019-01-13 00:06:32.556180|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-13 00:10:06.265291|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:61736
+2019-01-13 01:57:16.394143|INFO    |VirtualServerBase|1  |client connected 'JokaRapKing (Ts3 Rapper)'(id:40) from 73.138.139.155:51155
+2019-01-13 01:57:16.703217|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:16.817164|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:17.409077|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:17.409077|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:17.409077|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:17.409077|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:17.409077|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:17.705120|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.362072|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.362072|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.367072|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.368015|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.368015|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.646056|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.646056|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.933035|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.933035|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:18.933035|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'JokaRapKing (Ts3 Rapper)'(id:40)
+2019-01-13 01:57:47.718110|INFO    |VirtualServerBase|1  |client connected 'Joka's Fresh Tunes (Music Bot)'(id:41) from 73.138.139.155:53341
+2019-01-13 02:06:08.519602|INFO    |VirtualServerBase|1  |client disconnected 'JokaRapKing (Ts3 Rapper)'(id:40) reason 'reasonmsg=leaving'
+2019-01-13 02:06:08.520570|INFO    |VirtualServerBase|1  |client disconnected 'Joka's Fresh Tunes (Music Bot)'(id:41) reason 'reasonmsg=leaving'
+2019-01-13 02:58:19.973204|INFO    |VirtualServerBase|1  |client disconnected 'Nelson Kuroki'(id:34) reason 'reasonmsg=leaving'
+2019-01-13 03:19:03.716558|INFO    |VirtualServerBase|1  |client disconnected 'Daniel Kuroki | 1-L-50'(id:39) reason 'reasonmsg=leaving'
+2019-01-13 03:32:25.284380|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-13 13:35:19.607392|INFO    |VirtualServerBase|1  |client connected 'Nelson Kuroki'(id:34) using a myTeamSpeak ID from 192.168.0.1:60985
+2019-01-13 13:36:55.976095|INFO    |VirtualServerBase|1  |client disconnected 'Nelson Kuroki'(id:34) reason 'reasonmsg=leaving'
+2019-01-13 15:33:00.148328|INFO    |VirtualServerBase|1  |client connected 'Nelson Kuroki'(id:34) from 192.168.0.1:65135
+2019-01-13 15:33:03.058081|INFO    |VirtualServerBase|1  |client 'Nelson Kuroki'(id:34) changed myTeamSpeak ID
+2019-01-13 15:33:29.058393|INFO    |VirtualServerBase|1  |client 'Nelson Kuroki'(id:34) changed myTeamSpeak ID
+2019-01-13 16:14:56.394664|INFO    |VirtualServerBase|1  |client 'Radcrazykid2 | 1-L-40'(id:4) changed myTeamSpeak ID
+2019-01-13 16:15:09.676800|INFO    |VirtualServerBase|1  |client 'Radcrazykid2 | 1-L-40'(id:4) changed myTeamSpeak ID
+2019-01-13 16:34:55.964668|INFO    |VirtualServerBase|1  |client connected 'William Towers'(id:42) from 68.56.184.172:56478
+2019-01-13 16:34:56.327645|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'William Towers'(id:42)
+2019-01-13 16:34:59.064511|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'William Towers'(id:42)
+2019-01-13 16:36:05.498186|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'William Towers'(id:42)
+2019-01-13 16:36:05.498186|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'William Towers'(id:42)
+2019-01-13 16:36:05.503173|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'William Towers'(id:42)
+2019-01-13 16:36:05.503173|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'William Towers'(id:42)
+2019-01-13 16:36:05.503173|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'William Towers'(id:42)
+2019-01-13 16:36:05.660188|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'William Towers'(id:42)
+2019-01-13 16:36:22.335053|INFO    |VirtualServer |1  |client (id:42) was added to servergroup 'Member'(id:21) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-13 16:38:08.324225|INFO    |VirtualServer |1  |client (id:42) was added to servergroup '==Civilian=='(id:78) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-13 16:38:12.946875|INFO    |VirtualServer |1  |client (id:42) was added to servergroup 'Security'(id:87) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-13 16:38:17.432626|INFO    |VirtualServer |1  |client (id:42) was added to servergroup '==Training=='(id:65) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-13 16:38:21.659297|INFO    |VirtualServer |1  |client (id:42) was added to servergroup 'Tazer Qualified'(id:67) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-13 16:38:25.870081|INFO    |VirtualServer |1  |client (id:42) was added to servergroup 'Firearms Qualified'(id:66) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-13 16:48:07.988239|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'William Towers'(id:42)
+2019-01-13 16:48:07.988239|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'William Towers'(id:42)
+2019-01-13 16:48:08.183219|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'William Towers'(id:42)
+2019-01-13 16:48:08.183219|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'William Towers'(id:42)
+2019-01-13 16:48:08.183219|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'William Towers'(id:42)
+2019-01-13 16:48:08.226213|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'William Towers'(id:42)
+2019-01-13 19:18:47.049453|INFO    |VirtualServerBase|1  |client connected 'Daniel Kuroki | 1-L-50'(id:39) from 174.116.23.94:57266
+2019-01-13 19:18:51.776203|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'William Towers'(id:42)
+2019-01-13 19:18:51.776203|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_950873634' by client 'William Towers'(id:42)
+2019-01-13 19:18:51.776203|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'William Towers'(id:42)
+2019-01-13 20:04:33.033970|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2019-01-13 20:04:33.033970|INFO    |VirtualServerBase|1  |client disconnected 'Daniel Kuroki | 1-L-50'(id:39) reason 'reasonmsg=connection lost'
+2019-01-13 20:15:33.015999|INFO    |VirtualServerBase|1  |client connected 'Daniel Kuroki | 1-L-50'(id:39) from 174.116.23.94:58935
+2019-01-13 20:22:52.940556|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:64167
+2019-01-13 20:22:56.462327|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'William Towers'(id:42)
+2019-01-13 20:22:56.462327|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'William Towers'(id:42)
+2019-01-13 20:25:03.179127|INFO    |VirtualServerBase|1  |client disconnected 'Daniel Kuroki | 1-L-50'(id:39) reason 'reasonmsg=leaving'
+2019-01-13 20:25:45.213298|INFO    |VirtualServerBase|1  |client connected 'Daniel Kuroki | 1-L-50'(id:39) from 174.116.23.94:59930
+2019-01-13 21:43:13.648118|INFO    |VirtualServerBase|1  |client disconnected 'William Towers'(id:42) reason 'reasonmsg=leaving'
+2019-01-14 00:26:50.559823|INFO    |VirtualServerBase|1  |client 'Radcrazykid2 | 1-L-40'(id:4) changed myTeamSpeak ID
+2019-01-14 01:19:53.851789|INFO    |VirtualServerBase|1  |channel '[spacer9]• CAD/MDT System'(id:118) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-14 01:40:12.245625|INFO    |VirtualServerBase|1  |client disconnected 'Nelson Kuroki'(id:34) reason 'reasonmsg=leaving'
+2019-01-14 03:54:49.753941|INFO    |VirtualServerBase|1  |client connected 'William Towers'(id:42) from 68.56.184.172:52461
+2019-01-14 03:55:06.817831|INFO    |VirtualServerBase|1  |client disconnected 'William Towers'(id:42) reason 'reasonmsg=leaving'
+2019-01-14 05:10:36.854266|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-14 05:29:48.425384|INFO    |VirtualServerBase|1  |client disconnected 'Daniel Kuroki | 1-L-50'(id:39) reason 'reasonmsg=leaving'
+2019-01-14 21:23:10.466881|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2019-01-14 21:23:10.466881|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=connection lost'
+2019-01-14 21:23:14.947628|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:53425
+2019-01-14 21:41:45.069464|INFO    |VirtualServerBase|1  |client connected 'Alpha'(id:33) using a myTeamSpeak ID from 75.9.148.173:49384
+2019-01-14 21:41:50.406120|INFO    |VirtualServerBase|1  |client disconnected 'Alpha'(id:33) reason 'reasonmsg=leaving'
+2019-01-15 11:01:13.736824|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2019-01-15 11:03:02.840673|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:56659
+2019-01-15 11:03:07.546382|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2019-01-15 11:03:18.377665|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:62873
+2019-01-15 23:22:42.018749|INFO    |VirtualServerBase|1  |client connected 'Daniel Kuroki | 1-L-50'(id:39) from 174.116.23.94:54351
+2019-01-16 03:41:34.609721|INFO    |VirtualServerBase|1  |client disconnected 'Daniel Kuroki | 1-L-50'(id:39) reason 'reasonmsg=leaving'
+2019-01-16 19:07:03.572726|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2019-01-16 19:07:03.572726|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=connection lost'
+2019-01-17 01:53:59.033538|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:63089
+2019-01-17 02:36:12.336823|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2019-01-17 22:47:59.769260|INFO    |VirtualServerBase|1  |client connected 'William Towers'(id:42) from 68.56.184.172:55634
+2019-01-17 22:48:07.083784|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'William Towers'(id:42)
+2019-01-17 22:48:07.096802|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'William Towers'(id:42)
+2019-01-17 22:48:45.524280|INFO    |VirtualServerBase|1  |client disconnected 'William Towers'(id:42) reason 'reasonmsg=leaving'
+2019-01-18 07:33:00.943057|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:35) using a myTeamSpeak ID from 81.186.253.249:62544
+2019-01-18 07:33:54.590624|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:35) reason 'reasonmsg=leaving'
+2019-01-18 19:15:24.812855|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:60596
+2019-01-19 13:09:13.320728|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2019-01-19 20:23:24.223141|INFO    |VirtualServerBase|1  |client connected 'reacshun'(id:43) from 157.52.17.104:53070
+2019-01-19 20:23:24.343140|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'reacshun'(id:43)
+2019-01-19 20:23:24.373132|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'reacshun'(id:43)
+2019-01-19 20:23:28.372870|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'reacshun'(id:43)
+2019-01-19 20:23:28.387905|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'reacshun'(id:43)
+2019-01-19 20:23:28.409924|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'reacshun'(id:43)
+2019-01-19 20:23:28.429922|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'reacshun'(id:43)
+2019-01-19 20:23:28.481919|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'reacshun'(id:43)
+2019-01-19 20:24:59.987947|INFO    |VirtualServerBase|1  |client disconnected 'reacshun'(id:43) reason 'reasonmsg=im out lil bitch'
+2019-01-21 03:02:37.690815|INFO    |VirtualServerBase|1  |client connected 'Trout'(id:44) from 184.151.36.75:17899
+2019-01-21 03:05:22.403162|INFO    |VirtualServerBase|1  |client connected 'Tobruk'(id:45) from 76.71.220.202:60947
+2019-01-21 06:03:55.218568|INFO    |VirtualServerBase|1  |client disconnected 'Tobruk'(id:45) reason 'reasonmsg=leaving'
+2019-01-21 06:10:46.766866|INFO    |VirtualServerBase|1  |client disconnected 'Trout'(id:44) reason 'reasonmsg=leaving'
+2019-01-22 18:16:50.976695|INFO    |VirtualServerBase|1  |client connected 'reacshun'(id:43) from 157.52.17.104:63044
+2019-01-22 18:16:58.940121|INFO    |VirtualServerBase|1  |client disconnected 'reacshun'(id:43) reason 'reasonmsg=im out lil bitch'
+2019-01-23 21:05:58.481121|INFO    |VirtualServerBase|1  |client connected 'reacshun'(id:43) from 157.52.17.104:59214
+2019-01-23 21:06:02.237933|INFO    |VirtualServerBase|1  |client disconnected 'reacshun'(id:43) reason 'reasonmsg=im out lil bitch'
+2019-01-25 20:15:15.129577|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:62677
+2019-01-25 20:16:19.602412|INFO    |VirtualServerBase|1  |channel 'Sheriff -'(id:82) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-25 20:16:29.807725|INFO    |VirtualServerBase|1  |channel 'San Andreas Sheriff(CLOSED)'(id:50) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2019-01-25 20:19:46.170927|INFO    |VirtualServerBase|1  |client connected 'reacshun'(id:43) from 157.52.17.104:50469
+2019-01-25 20:19:47.380903|INFO    |VirtualServerBase|1  |client disconnected 'reacshun'(id:43) reason 'reasonmsg=im out lil bitch'
+2019-01-26 05:06:51.977200|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2019-01-28 07:28:14.910117|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:49538
+2019-01-28 07:32:44.790621|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2019-02-03 05:05:02.429573|INFO    |VirtualServerBase|1  |client connected 'reacshun'(id:43) from 192.171.35.229:59994
+2019-02-03 05:05:10.281997|INFO    |VirtualServerBase|1  |client disconnected 'reacshun'(id:43) reason 'reasonmsg=im out lil bitch'
+2019-02-03 09:10:05.215561|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.0.1:62995
+2019-02-03 23:22:03.114857|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'

@@ -1,0 +1,21 @@
+﻿2019-02-28 11:04:17.575475|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2019-02-28 11:04:17.576483|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2019-02-28 11:04:17.576483|INFO    |ServerLibPriv |   |Using hardware aes
+2019-02-28 11:04:17.578475|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2019-02-28 11:04:17.578475|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2019-02-28 11:04:17.578475|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2019-02-28 11:04:17.620482|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2019-02-28 11:04:17.631469|INFO    |Accounting    |   |Licensing Information
+2019-02-28 11:04:17.631469|INFO    |Accounting    |   |licensed to       : Anonymous
+2019-02-28 11:04:17.631469|INFO    |Accounting    |   |type              : No License
+2019-02-28 11:04:17.632469|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2019-02-28 11:04:17.632469|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2019-02-28 11:04:17.632469|INFO    |Accounting    |   |max virtualservers: 1
+2019-02-28 11:04:17.632469|INFO    |Accounting    |   |max slots         : 32
+2019-02-28 11:04:17.671464|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-28 11:04:18.137433|ERROR   |Accounting    |   |local accounting reports an already running instance, instance will shutdown
+2019-02-28 11:04:22.049185|INFO    |              |   |Puzzle precompute time: 4387
+2019-02-28 11:04:22.052180|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2019-02-28 11:04:22.108176|ERROR   |VirtualSvrMgr |   |loading VirtualServer(1) failed to start, error: port already in use
+2019-02-28 11:04:22.112175|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2019-02-28 11:04:22.112175|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 

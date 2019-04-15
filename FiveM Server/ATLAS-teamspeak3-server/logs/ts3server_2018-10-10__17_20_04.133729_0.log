@@ -1,0 +1,45 @@
+﻿2018-10-10 17:20:04.134730|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2018-10-10 17:20:04.180732|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2018-10-10 17:20:04.180732|INFO    |ServerLibPriv |   |Using hardware aes
+2018-10-10 17:20:04.319760|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-10-10 17:20:04.320723|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-10-10 17:20:04.431711|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-10-10 17:20:05.254730|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-10-10 17:20:05.555648|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |Licensing Information
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |type              : No License
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |max virtualservers: 1
+2018-10-10 17:20:05.679637|INFO    |Accounting    |   |max slots         : 32
+2018-10-10 17:20:09.050449|INFO    |              |   |Puzzle precompute time: 2847
+2018-10-10 17:20:09.094434|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-10-10 17:20:09.614407|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-10-10 17:20:09.625405|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2018-10-11 17:20:05.644322|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-12 17:20:05.749541|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-13 17:20:05.839199|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-14 17:20:05.944437|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-15 08:05:22.480289|ERROR   |              |   |TS3ANetwork::Recv failed error: 10052
+2018-10-15 08:05:23.511530|ERROR   |              |   |TS3ANetwork::Recv failed error: 10052
+2018-10-15 08:05:25.527112|ERROR   |              |   |TS3ANetwork::Recv failed error: 10052
+2018-10-15 17:20:06.080937|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-16 17:20:06.217395|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-16 23:05:11.555818|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-16 23:06:16.882609|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-16 23:06:20.741891|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-16 23:06:36.038439|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-16 23:06:36.522806|ERROR   |UDPServers    |   |An existing connection was forcibly closed by the remote host
+2018-10-16 23:06:37.319641|ERROR   |UDPServers    |   |An existing connection was forcibly closed by the remote host
+2018-10-16 23:07:58.005435|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-16 23:08:48.488717|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-17 16:32:17.730001|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-10-17 17:20:06.321238|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

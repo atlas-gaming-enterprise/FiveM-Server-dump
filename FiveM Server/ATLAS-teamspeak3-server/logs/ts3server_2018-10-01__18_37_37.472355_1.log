@@ -1,0 +1,6 @@
+﻿2018-10-01 18:37:38.659947|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-01 18:37:51.666275|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.2.19:65489
+2018-10-01 19:20:02.953574|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2018-10-01 19:20:03.473896|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=connection lost'
+2018-10-01 19:20:08.261915|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 192.168.2.19:65489
+2018-10-01 22:38:52.030106|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'

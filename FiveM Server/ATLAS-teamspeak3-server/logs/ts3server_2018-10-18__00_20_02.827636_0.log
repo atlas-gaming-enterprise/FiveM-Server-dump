@@ -1,0 +1,23 @@
+﻿2018-10-18 00:20:02.829580|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2018-10-18 00:20:02.930609|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2018-10-18 00:20:02.931573|INFO    |ServerLibPriv |   |Using hardware aes
+2018-10-18 00:20:03.633542|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-10-18 00:20:03.655574|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-10-18 00:20:03.942511|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-10-18 00:20:05.482462|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-10-18 00:20:05.909397|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |Licensing Information
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |type              : No License
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |max virtualservers: 1
+2018-10-18 00:20:06.072382|INFO    |Accounting    |   |max slots         : 32
+2018-10-18 00:20:10.762096|INFO    |              |   |Puzzle precompute time: 3406
+2018-10-18 00:20:10.795092|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-10-18 00:20:11.505111|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-10-18 00:20:11.518105|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2018-10-19 00:20:08.213041|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-20 00:20:08.319930|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-21 00:20:08.412345|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-22 00:20:08.529141|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

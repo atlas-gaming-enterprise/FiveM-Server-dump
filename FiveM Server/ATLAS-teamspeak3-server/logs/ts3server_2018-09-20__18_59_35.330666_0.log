@@ -1,0 +1,181 @@
+﻿2018-09-20 18:59:35.330666|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2018-09-20 18:59:35.330666|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2018-09-20 18:59:35.330666|INFO    |ServerLibPriv |   |Using hardware aes
+2018-09-20 18:59:35.357682|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-09-20 18:59:35.357682|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-09-20 18:59:35.359685|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-09-20 18:59:35.375685|INFO    |SQL           |   |database updated successfully to revision: 27
+2018-09-20 18:59:35.377686|INFO    |SQL           |   |database updated successfully to revision: 28
+2018-09-20 18:59:35.379686|INFO    |SQL           |   |database updated successfully to revision: 29
+2018-09-20 18:59:35.380687|INFO    |DatabaseQuery |   |database busy, waiting for finishing index tasks, may take some time!
+2018-09-20 19:00:15.419169|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |Licensing Information
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |type              : No License
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |max virtualservers: 1
+2018-09-20 19:00:15.429180|INFO    |Accounting    |   |max slots         : 32
+2018-09-20 19:00:15.512199|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-09-20 19:00:16.270063|INFO    |              |   |Puzzle precompute time: 825
+2018-09-20 19:00:16.271055|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-09-20 19:00:16.293208|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-09-20 19:00:16.293208|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2018-09-20 19:02:38.219672|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2642770149": The system cannot find the file specified.
+                                                       
+2018-09-20 19:02:38.862841|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3102975314": The system cannot find the file specified.
+                                                       
+2018-09-20 19:02:38.862841|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3993483088": The system cannot find the file specified.
+                                                       
+2018-09-20 19:02:38.876845|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2013348012": The system cannot find the file specified.
+                                                       
+2018-09-20 19:02:38.876845|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_334483102": The system cannot find the file specified.
+                                                       
+2018-09-20 19:02:38.877846|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_763733025": The system cannot find the file specified.
+                                                       
+2018-09-20 19:02:38.904851|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_888699871": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:11.877151|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3102975314": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:11.878151|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_4130422297": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:11.878151|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1483396842": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:11.878151|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1529263021": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:56.508164|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3102975314": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:56.509165|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_4130422297": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:56.509165|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1483396842": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:56.509165|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1529263021": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:58.462607|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2642770149": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:59.197815|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3993483088": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:59.201815|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2013348012": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:59.202816|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_334483102": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:59.207829|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_763733025": The system cannot find the file specified.
+                                                       
+2018-09-20 19:03:59.207829|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_888699871": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.224536|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3963302091": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.225536|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3062257508": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.225536|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_562027764": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.225536|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2198526597": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.225536|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1116735422": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.297553|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_199054942": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.297553|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2882935176": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.298554|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_677066105": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.300554|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_746379343": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.301554|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2879214217": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.401576|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2888068105": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.401576|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1805427825": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.402577|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_478832049": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.405577|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1241727404": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.505599|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_184842084": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.506600|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_808654778": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.506600|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_671141899": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.507601|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1068031717": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.608624|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.610624|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2314398147": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.711646|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2986627059": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.711646|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_674336617": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.813669|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_87243971": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.813669|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2462758921": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.914692|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_4231751858": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:04.915692|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2210940942": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.016714|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3104672644": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.017715|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1078673879": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.118737|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_569536555": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.118737|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3201618383": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.219760|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_125039526": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.220760|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3714751149": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.322782|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3782301228": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.322782|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2695360418": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.424805|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2458059554": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.424805|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_475659083": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.526827|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_250997313": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.526827|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2764044660": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.627851|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2295463579": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.628852|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2687556238": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.728873|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1815735829": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.729873|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2403989947": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.831896|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3897558906": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.831896|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_278659660": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.933918|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2866804287": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:05.933918|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1501844119": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:06.035941|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3911561361": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:06.035941|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2003727143": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:06.137963|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3692269475": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:06.171970|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_3739044781": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:06.240986|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_270108242": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:51.533462|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_463254636": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:51.535463|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_446998080": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:51.535463|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2477954463": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:51.535463|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_52966479": The system cannot find the file specified.
+                                                       
+2018-09-20 19:04:51.535463|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_656281992": The system cannot find the file specified.
+                                                       
+2018-09-20 19:05:05.019884|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_1684894752": The system cannot find the file specified.
+                                                       
+2018-09-20 19:05:05.019884|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_2656494620": The system cannot find the file specified.
+                                                       

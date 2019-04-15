@@ -1,0 +1,26 @@
+﻿2018-07-11 15:18:48.389249|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2018-07-11 15:20:45.491672|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 192.168.2.39:61734
+2018-07-11 15:20:45.572943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3102975314' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 15:20:45.572943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 15:20:45.572943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 15:20:45.572943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 15:20:45.573947|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:47:50.749153|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:47:52.498390|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3993483088' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:47:52.499394|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:47:52.574642|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:47:52.983954|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:47:52.983954|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_888699871' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:48:21.431789|INFO    |VirtualServerBase|1  |channel 'Lead Admin -'(id:100) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:48:33.005277|INFO    |VirtualServerBase|1  |channel 'Lead Admin'(id:102) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:48:38.853948|INFO    |VirtualServerBase|1  |channel 'Senior Admin -'(id:78) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:48:59.873186|INFO    |VirtualServerBase|1  |channel 'San Andreas State Police -'(id:49) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:49:09.570314|INFO    |VirtualServerBase|1  |channel 'UnderSheriff -'(id:62) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:49:19.606500|INFO    |VirtualServerBase|1  |channel 'Sheriff. -'(id:82) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:50:28.459522|INFO    |VirtualServerBase|1  |channel '[cspacer1]Server IP: 142.44.241.94:30120'(id:25) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:50:32.427563|INFO    |VirtualServerBase|1  |channel '[cspacer1]Server IP: 142.44.241.94:30120'(id:25) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:50:47.689310|INFO    |VirtualServer |1  |client (id:4) was removed from servergroup 'FBI's Most Wanted'(id:91) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:51:08.039362|INFO    |VirtualServer |1  |client (id:4) was added to servergroup 'Special Field Agent'(id:99) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 17:51:15.671433|INFO    |VirtualServer |1  |client (id:4) was added to servergroup '==Specialized Units=='(id:46) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-07-11 19:10:02.104439|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=Server Shutdown!'
+2018-07-11 19:10:02.162776|INFO    |VirtualServerBase|1  |stopped

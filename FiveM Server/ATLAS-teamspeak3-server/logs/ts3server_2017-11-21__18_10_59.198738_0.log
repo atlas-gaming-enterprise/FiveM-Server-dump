@@ -1,0 +1,17 @@
+﻿2017-11-21 18:10:59.508242|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.8 (2017-07-19 08:26:51)
+2017-11-21 18:10:59.572751|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2012 R2 (9600) x64 (AMD or Intel) Binary: 64bit
+2017-11-21 18:10:59.572751|INFO    |ServerLibPriv |   |Using hardware aes
+2017-11-21 18:11:00.645013|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-11-21 18:11:00.663556|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-11-21 18:11:01.314877|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-11-21 18:11:05.532734|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-11-21 18:11:13.308041|INFO    |              |   |Puzzle precompute time: 4122
+2017-11-21 18:11:13.445783|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-11-21 18:11:14.600047|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-11-21 18:11:14.601008|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-11-21 19:50:57.341299|ERROR   |              |   |error reading tcp socket An existing connection was forcibly closed by the remote host
+2017-11-26 22:23:59.245666|ERROR   |              |   |error reading tcp socket An existing connection was forcibly closed by the remote host
+2017-12-01 00:02:05.936926|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-12-01 00:02:08.013118|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-12-04 08:45:27.225354|ERROR   |              |   |error reading tcp socket An existing connection was forcibly closed by the remote host
+2017-12-04 08:45:27.225354|ERROR   |              |   |error writing tcp socket An existing connection was forcibly closed by the remote host

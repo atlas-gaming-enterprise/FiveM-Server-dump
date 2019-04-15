@@ -1,0 +1,400 @@
+﻿2017-11-21 18:11:14.460449|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2017-11-21 18:11:15.118607|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:52505
+2017-11-22 01:51:30.869574|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:64720
+2017-11-22 02:34:47.409641|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-11-22 02:35:21.420401|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:64720
+2017-11-22 02:43:19.115752|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-11-22 02:44:06.666452|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:64720
+2017-11-22 02:47:21.065925|INFO    |VirtualServerBase|1  |client connected 'MagicalTaco'(id:24) from 174.113.28.137:64691
+2017-11-22 02:47:21.309055|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:24.718207|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3102975314' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:24.750476|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:24.750476|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1116735422' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:24.750476|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_808654778' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:24.750476|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.356906|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.356906|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.375467|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.394041|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.412635|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.590283|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3993483088' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.605943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.625458|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.800270|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'MagicalTaco'(id:24)
+2017-11-22 02:47:25.960436|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_888699871' by client 'MagicalTaco'(id:24)
+2017-11-22 02:48:41.094198|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-11-22 02:48:54.006385|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:53113
+2017-11-22 02:49:15.676223|INFO    |VirtualServerBase|1  |channel 'Lead Admin -'(id:100) edited by 'DiamondBackEV'(id:14)
+2017-11-22 02:49:27.260224|INFO    |VirtualServerBase|1  |channel 'Community Director -'(id:99) edited by 'DiamondBackEV'(id:14)
+2017-11-22 02:50:12.467226|INFO    |VirtualServer |1  |client (id:24) was added to servergroup 'Senior Member'(id:20) by client 'DiamondBackEV'(id:14)
+2017-11-22 02:50:12.521971|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'MagicalTaco'(id:24)
+2017-11-22 02:54:01.288522|INFO    |VirtualServerBase|1  |channel 'Community Director - Faxes'(id:99) edited by 'DiamondBackEV'(id:14)
+2017-11-22 03:23:07.083470|INFO    |VirtualServer |1  |client (id:24) was added to servergroup 'Lead Admin'(id:10) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 04:45:33.004341|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 68.54.224.177:63431
+2017-11-22 04:45:45.764117|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-22 05:49:28.007290|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-11-22 05:49:53.454549|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:54338
+2017-11-22 05:49:54.111768|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-401'(id:4) from 70.54.126.148:54340
+2017-11-22 05:49:54.698763|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-402'(id:4) from 70.54.126.148:54336
+2017-11-22 05:49:55.503438|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-401'(id:4) reason 'reasonmsg=leaving'
+2017-11-22 05:49:59.097146|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-402'(id:4) reason 'reasonmsg=leaving'
+2017-11-22 05:53:59.153818|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-11-22 06:13:50.463449|INFO    |VirtualServerBase|1  |channel 'Lead Admin - MagicalTaco'(id:100) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 06:13:56.326643|INFO    |VirtualServer |1  |client 'MagicalTaco'(id:24) was added to channelgroup 'Channel Admin'(id:5) by client 'Radcrazykid2 | 1-L-40'(id:4) in channel 'Lead Admin - MagicalTaco'(id:100)
+2017-11-22 08:48:12.346223|INFO    |VirtualServerBase|1  |client connected 'MasterM(tron) #34238 1-W-05'(id:21) from 47.41.214.110:61721
+2017-11-22 08:49:19.018084|INFO    |VirtualServerBase|1  |channel 'In-Game Admin'(id:103) created as sub channel of 'Admins'(id:19) by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:49:28.631315|INFO    |VirtualServerBase|1  |channel 'In-Game Admin -'(id:103) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:53:06.963362|INFO    |VirtualServer |1  |client (id:21) was added to servergroup 'In-Game Admin'(id:19) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:56:30.523893|INFO    |VirtualServerBase|1  |channel 'Supervisor Net 120'(id:36) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:56:32.925258|INFO    |VirtualServerBase|1  |channel 'On Scene Net 85'(id:34) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:56:36.668389|INFO    |VirtualServerBase|1  |channel 'EMERGENCY 1 • Law Enforcement'(id:32) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:56:48.043418|INFO    |VirtualServerBase|1  |channel 'EMERGENCY 2 • Fire & EMS'(id:35) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:56:50.381285|INFO    |VirtualServerBase|1  |channel 'EMERGENCY 2 • Fire & EMS'(id:35) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:56:52.592236|INFO    |VirtualServerBase|1  |channel 'Open Net 101'(id:33) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:57:44.792482|INFO    |VirtualServerBase|1  |channel '[cspacer]        10 Codes & Signals'(id:27) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:57:50.687019|INFO    |VirtualServerBase|1  |channel '[cspacer0]     FiveM Car List'(id:26) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:57:54.299353|INFO    |VirtualServerBase|1  |channel '[cspacer0]     FiveM Car List'(id:26) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:58:04.932086|INFO    |VirtualServerBase|1  |channel '[cspacer1] FiveM'(id:25) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:58:14.283693|INFO    |VirtualServerBase|1  |channel '[cspacer0]    LEO Apply / Rules'(id:5) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:58:19.030740|INFO    |VirtualServerBase|1  |channel '[cspacer0]        LEO Apply / Rules'(id:5) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:58:27.255368|INFO    |VirtualServerBase|1  |channel '[cspacer0]INFORMATION New info READ!!'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 08:59:47.708442|INFO    |VirtualServerBase|1  |channel '[*spacer0]_____'(id:3) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:00:07.766085|INFO    |VirtualServerBase|1  |channel '[cspacer1] FiveM'(id:25) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:01:42.940920|INFO    |VirtualServerBase|1  |channel '[cspacer0]★ AGE FX SERVER ★'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:02:04.395002|INFO    |VirtualServerBase|1  |channel '[cspacer0]Information'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:03:08.954654|INFO    |VirtualServerBase|1  |channel '[spacer0]ATLAS Gaming Information:'(id:104) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:03:35.741680|INFO    |VirtualServerBase|1  |channel '[spacer1]'(id:105) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:03:44.972132|INFO    |VirtualServerBase|1  |channel '[spacer0]     FiveM Car List'(id:26) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:03:50.075657|INFO    |VirtualServerBase|1  |channel '[spacer0]FiveM Car List'(id:26) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:03:54.210394|INFO    |VirtualServerBase|1  |channel '[spacer0]Information'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:04:00.644972|INFO    |VirtualServerBase|1  |channel '[spacer0]LEO Apply / Rules'(id:5) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:04:10.220204|INFO    |VirtualServerBase|1  |channel '[spacer]10 Codes & Signals'(id:27) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:04:23.181172|INFO    |VirtualServerBase|1  |channel '[spacer0]IMPORTANT PUBLIC NOTES!'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:04:32.357904|INFO    |VirtualServerBase|1  |channel '[spacer0]IMPORTANT PUBLIC NOTES!'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:04:52.348100|INFO    |VirtualServerBase|1  |channel '[spacer0]•IMPORTANT PUBLIC NOTES!'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:04:55.866649|INFO    |VirtualServerBase|1  |channel '[spacer0]• IMPORTANT PUBLIC NOTES!'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:05:00.243642|INFO    |VirtualServerBase|1  |channel '[spacer0]• FiveM Car List'(id:26) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:05:03.922359|INFO    |VirtualServerBase|1  |channel '[spacer0]• LEO Apply / Rules'(id:5) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:05:07.707490|INFO    |VirtualServerBase|1  |channel '[spacer]• 10 Codes & Signals'(id:27) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:06:46.812966|INFO    |VirtualServerBase|1  |channel 'Welcome | Please Do Not Idle!'(id:1) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:07:03.027811|INFO    |VirtualServerBase|1  |channel 'Tags Channel | Join If You Need TS3 Tags'(id:2) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:10:38.405742|INFO    |VirtualServerBase|1  |channel '[cspacer0] ★ ATLAS Gaming Server 1 ★'(id:106) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:11:03.036623|INFO    |VirtualServerBase|1  |channel '[cspacer0] ★ ATLAS Gaming Server 1 ★'(id:106) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:13:37.154728|INFO    |VirtualServerBase|1  |channel '[cspacer1]Server IP: 142.44.241.94:30120'(id:25) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:14:12.318819|INFO    |VirtualServerBase|1  |channel '[*spacer0]———————'(id:107) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:14:29.442883|INFO    |VirtualServerBase|1  |channel '[*spacer0]—————'(id:3) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:15:10.738715|INFO    |VirtualServerBase|1  |channel '[*spacer0]—'(id:3) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:15:17.477025|INFO    |VirtualServerBase|1  |channel '[*spacer0]——'(id:107) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:15:35.826638|INFO    |VirtualServerBase|1  |channel '[*spacer1]——'(id:107) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:15:39.481880|INFO    |VirtualServerBase|1  |channel '[*spacer1]—'(id:107) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:16:10.461438|INFO    |VirtualServerBase|1  |channel '[spacer2]'(id:108) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:16:50.252472|INFO    |VirtualServerBase|1  |channel '[*spacer2]—'(id:6) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:17:29.395971|INFO    |VirtualServerBase|1  |channel '[cspacer1]♦ Administration ♦'(id:17) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:18:20.234809|INFO    |VirtualServerBase|1  |channel '[cspacer1]◄ Administration ►'(id:17) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:19:52.508273|INFO    |VirtualServerBase|1  |channel '[*spacer6]▬'(id:16) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:20:10.515101|INFO    |VirtualServerBase|1  |channel '[*spacer6]'(id:16) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:20:22.341357|INFO    |VirtualServerBase|1  |channel '[*spacer6]▬▬▬▬▬▬▬'(id:16) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:20:37.674297|INFO    |VirtualServerBase|1  |channel '[*spacer8]—'(id:16) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:20:44.370667|INFO    |VirtualServerBase|1  |channel '[*spacer9]—'(id:18) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:20:58.683098|INFO    |VirtualServerBase|1  |channel 'S.A Emergency Dispatch'(id:30) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:21:41.572735|INFO    |VirtualServerBase|1  |channel 'General Chat Room'(id:7) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:22:10.689890|INFO    |VirtualServerBase|1  |channel 'Lounge Room | Public • 1'(id:8) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:22:18.930125|INFO    |VirtualServerBase|1  |channel 'Lounge Room | Public • 2'(id:9) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:22:29.682103|INFO    |VirtualServerBase|1  |channel 'Lounge Room | Private • 1'(id:10) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:22:33.178155|INFO    |VirtualServerBase|1  |channel 'Lounge Room | Private • 2'(id:13) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:22:38.622508|INFO    |VirtualServerBase|1  |channel 'Lounge 2'(id:96) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:23:03.642052|INFO    |VirtualServer |1  |client 'MasterM(tron) #34238 1-W-05'(id:21) was added to channelgroup 'Guest'(id:8) by client 'Radcrazykid2 | 1-L-40'(id:4) in channel 'Lounge Room | Public • 1'(id:8)
+2017-11-22 09:23:33.728250|INFO    |VirtualServerBase|1  |channel 'General Chat Room'(id:7) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:23:35.930149|INFO    |VirtualServer |1  |client 'MasterM(tron) #34238 1-W-05'(id:21) was added to channelgroup 'Guest'(id:8) by client 'Radcrazykid2 | 1-L-40'(id:4) in channel 'Lounge Room | Public • 1'(id:8)
+2017-11-22 09:24:01.409633|INFO    |VirtualServerBase|1  |channel 'Game Room | Public • 1'(id:74) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:05.097155|INFO    |VirtualServerBase|1  |channel 'Game Room | Public • 2'(id:71) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:15.483868|INFO    |VirtualServerBase|1  |channel 'Game Room | Private • 1'(id:76) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:18.705553|INFO    |VirtualServerBase|1  |channel 'Game Room | Private • 2'(id:73) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:23.260271|INFO    |VirtualServerBase|1  |channel 'Game Room - State of Decay'(id:84) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:25.381295|INFO    |VirtualServerBase|1  |channel 'Game Room - GTA ONLINE'(id:72) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:27.021928|INFO    |VirtualServerBase|1  |channel 'Game Room - LSPDFR'(id:15) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:24:40.188933|INFO    |VirtualServerBase|1  |channel 'General Chat (In Game)'(id:12) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:25:23.388193|INFO    |VirtualServerBase|1  |channel '[cspacer2]♦ General ♦'(id:109) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:26:30.793402|INFO    |VirtualServerBase|1  |channel '[spacer0]• IMPORTANT PUBLIC NOTES!'(id:4) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:28:56.420403|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:29:23.769048|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:29:53.889108|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:31:11.098146|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:31:33.535580|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:33:40.273918|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:34:19.712339|INFO    |VirtualServerBase|1  |channel '[spacer0] Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:34:43.961381|INFO    |VirtualServerBase|1  |channel '[spacer0]• Website active now'(id:110) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:36:20.144954|INFO    |VirtualServerBase|1  |channel 'Civilians Group • 1'(id:38) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:36:26.567910|INFO    |VirtualServerBase|1  |channel 'Civilians Group • 2'(id:39) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:36:30.560029|INFO    |VirtualServerBase|1  |channel 'Civilians Group • 3'(id:40) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:36:56.460439|INFO    |VirtualServerBase|1  |client disconnected 'MasterM(tron) #34238 1-W-05'(id:21) reason 'reasonmsg=leaving'
+2017-11-22 09:37:02.020945|INFO    |VirtualServerBase|1  |channel '[cspacer5]♦ Communications ♦'(id:28) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:37:51.561007|INFO    |VirtualServerBase|1  |channel '• Civilians •'(id:29) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:38:31.255354|INFO    |VirtualServerBase|1  |channel 'Civilians Group • 1'(id:38) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:38:47.384224|INFO    |VirtualServerBase|1  |channel 'Civilians Group • 2'(id:39) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:39:03.924291|INFO    |VirtualServerBase|1  |channel 'Civilians Group • 3'(id:40) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:39:39.913541|INFO    |VirtualServerBase|1  |channel 'Public Works • Transportation'(id:111) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:40:28.454541|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.136.111.108:2186
+2017-11-22 09:49:35.228965|INFO    |VirtualServerBase|1  |channel 'Public Works • Transportation'(id:111) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:50:30.412580|INFO    |VirtualServerBase|1  |channel 'Public Works • Transportation'(id:111) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:51:08.079613|INFO    |VirtualServerBase|1  |channel 'Community Director - FAXES'(id:99) edited by 'FAXES'(id:7)
+2017-11-22 09:56:31.909647|INFO    |VirtualServerBase|1  |channel 'AFK'(id:11) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:57:09.857885|INFO    |VirtualServerBase|1  |channel '[spacer4]'(id:112) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:57:29.414524|INFO    |VirtualServerBase|1  |channel 'AFK'(id:11) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:58:28.677209|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-11-22 09:58:35.286623|INFO    |VirtualServerBase|1  |channel '[spacer10]'(id:113) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:59:05.173352|INFO    |VirtualServerBase|1  |channel '[spacer11]'(id:114) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 09:59:28.252418|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:00:39.726075|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:00:58.924365|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:01:13.332510|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:01:22.428235|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:01:31.843301|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:01:37.756299|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:01:41.435990|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:01:45.259226|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:02:33.172330|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:06:00.538539|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:06:08.658641|INFO    |VirtualServerBase|1  |channel '[spacer7]• Communications Guidelines'(id:115) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:06:35.189056|INFO    |VirtualServerBase|1  |channel '[spacer9]'(id:116) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:07:59.089344|INFO    |VirtualServerBase|1  |channel '[spacer8]• Temp Officer Information'(id:31) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:08:11.471187|INFO    |VirtualServerBase|1  |channel '[spacer8]• Temp Officer Information'(id:117) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:08:23.064972|INFO    |VirtualServerBase|1  |channel '[spacer8]• Temp Officer Information'(id:117) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:08:25.932075|INFO    |VirtualServerBase|1  |channel '[spacer8]• Temp Officer Information'(id:31) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:08:27.957486|INFO    |VirtualServerBase|1  |channel 'Dispatcher Net 1'(id:37) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:10:42.304227|INFO    |VirtualServerBase|1  |channel '[spacer9]• CAD/MDT System'(id:118) created by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:10:48.043448|INFO    |VirtualServerBase|1  |channel 'S.A Emergency Dispatch'(id:30) deleted by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:11:06.679188|INFO    |VirtualServerBase|1  |channel 'Sergeant's Office -'(id:65) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:11:54.234840|INFO    |VirtualServerBase|1  |channel 'Aviation'(id:60) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:12:02.783693|INFO    |VirtualServerBase|1  |channel 'FTO'(id:69) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 10:12:07.735811|INFO    |VirtualServerBase|1  |channel 'K-9'(id:67) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-22 15:25:52.061027|INFO    |VirtualServerBase|1  |client connected 'Doc Holliday'(id:22) from 118.243.76.210:61540
+2017-11-22 15:25:56.520963|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'Doc Holliday'(id:22)
+2017-11-22 15:26:11.253357|INFO    |VirtualServerBase|1  |client disconnected 'Doc Holliday'(id:22) reason 'reasonmsg=leaving'
+2017-11-22 16:07:05.950623|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.152.110.167:5358
+2017-11-22 16:07:18.355939|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-11-22 22:39:48.224069|INFO    |VirtualServerBase|1  |client connected 'MegaIndian'(id:17) from 75.187.231.7:63480
+2017-11-22 22:39:50.833490|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'MegaIndian'(id:17)
+2017-11-22 22:39:50.840278|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'MegaIndian'(id:17)
+2017-11-22 22:39:50.840278|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'MegaIndian'(id:17)
+2017-11-22 22:39:50.840278|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'MegaIndian'(id:17)
+2017-11-22 22:39:50.862756|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.340368|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.365660|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3062257508' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.372522|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_562027764' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.372522|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2198526597' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.372522|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1116735422' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.628417|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_199054942' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.750443|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_677066105' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.750443|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_746379343' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.757335|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2879214217' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.757335|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2888068105' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:00.872498|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.115691|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_478832049' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.220204|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1241727404' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.260239|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_184842084' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.389144|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_808654778' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.499466|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_671141899' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.521918|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1068031717' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.648882|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_85368941' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.668439|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2314398147' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.721132|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986627059' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.796340|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_674336617' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.947755|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_87243971' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.947755|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:01.970212|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.146061|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2210940942' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.146061|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.146939|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1078673879' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.308188|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_569536555' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.314918|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3201618383' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.334409|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_125039526' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.465339|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3714751149' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.490736|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3782301228' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.504392|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2695360418' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:02.926259|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2458059554' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.003387|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_475659083' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.004457|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_250997313' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.121575|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2764044660' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.194819|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2295463579' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.227035|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2687556238' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.287595|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.371535|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2403989947' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.377463|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3897558906' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.450670|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_278659660' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.592282|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2866804287' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.592282|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1501844119' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.607919|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3911561361' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.758246|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2003727143' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.758246|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3692269475' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:03.773932|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3739044781' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.053154|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_270108242' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.053154|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_463254636' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.121529|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2477954463' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.226019|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_52966479' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.228948|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_656281992' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.299288|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1684894752' by client 'MegaIndian'(id:17)
+2017-11-22 22:40:04.385218|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2656494620' by client 'MegaIndian'(id:17)
+2017-11-22 22:42:08.855925|INFO    |VirtualServerBase|1  |client disconnected 'MegaIndian'(id:17) reason 'reasonmsg=leaving'
+2017-11-22 23:11:26.475064|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 68.54.224.177:64509
+2017-11-22 23:12:07.134245|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-23 06:29:07.637396|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:52279
+2017-11-23 06:32:21.712358|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-23 07:29:24.574721|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:52445
+2017-11-23 07:29:32.868623|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-23 09:44:31.162581|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.136.111.187:33984
+2017-11-23 09:47:41.167554|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2017-11-23 09:47:41.167554|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=connection lost'
+2017-11-23 09:55:13.262193|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.136.111.187:61814
+2017-11-23 10:41:17.226037|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-11-23 10:41:35.453571|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-11-23 10:41:36.438958|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:54338
+2017-11-24 15:08:11.199716|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:61817
+2017-11-24 20:34:56.032655|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-25 11:57:18.533660|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:60104
+2017-11-25 11:58:10.789501|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-26 00:43:47.236823|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2017-11-26 00:43:47.279723|INFO    |VirtualServerBase|1  |client disconnected 'MagicalTaco'(id:24) reason 'reasonmsg=connection lost'
+2017-11-26 02:40:27.185041|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-11-26 02:41:53.736807|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:60399
+2017-11-26 09:04:32.908666|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:60945
+2017-11-26 09:05:06.492656|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-26 10:14:17.311026|INFO    |VirtualServerBase|1  |client connected 'MasterM(tron) #34238 1-W-05'(id:21) from 104.173.144.34:62140
+2017-11-26 10:22:27.763146|INFO    |VirtualServerBase|1  |client disconnected 'MasterM(tron) #34238 1-W-05'(id:21) reason 'reasonmsg=leaving'
+2017-11-26 11:23:34.739712|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:51927
+2017-11-26 12:31:33.845149|INFO    |VirtualServer |1  |client (id:8) was added to servergroup 'Teamspeak Dev'(id:93) by client 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-26 12:34:38.090285|INFO    |VirtualServer |1  |permission 'i_client_private_textmessage_power'(id:214) with values (value:75, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:34:38.182154|INFO    |VirtualServer |1  |permission 'b_client_server_textmessage_send'(id:216) with values (value:1, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:34:40.511186|INFO    |VirtualServer |1  |permission 'b_client_channel_textmessage_send'(id:217) with values (value:1, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:34:44.082515|INFO    |VirtualServer |1  |permission 'b_client_offline_textmessage_send'(id:218) with values (value:1, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:34:45.202577|INFO    |VirtualServer |1  |permission 'i_client_talk_power'(id:219) with values (value:75, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:34:47.342236|INFO    |VirtualServer |1  |permission 'i_client_poke_power'(id:221) with values (value:75, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:34:50.234838|INFO    |VirtualServer |1  |permission 'i_client_whisper_power'(id:224) with values (value:75, negated:0, skipchannel:0) was added by 'Radcrazykid2 | 1-L-40'(id:4) to servergroup 'Lead Admin'(id:10)
+2017-11-26 12:58:33.898952|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-26 12:58:41.267069|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:57014
+2017-11-26 13:42:43.701614|INFO    |VirtualServerBase|1  |client connected 'Snow'(id:5) from 208.102.111.220:58056
+2017-11-26 13:42:45.023886|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Snow'(id:5)
+2017-11-26 13:42:45.415489|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Snow'(id:5)
+2017-11-26 13:42:45.415489|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'Snow'(id:5)
+2017-11-26 13:42:45.416480|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_674336617' by client 'Snow'(id:5)
+2017-11-26 13:42:45.416480|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'Snow'(id:5)
+2017-11-26 13:42:46.260185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2210940942' by client 'Snow'(id:5)
+2017-11-26 13:42:46.497486|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'Snow'(id:5)
+2017-11-26 13:42:51.535592|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3102975314' by client 'Snow'(id:5)
+2017-11-26 13:42:51.535592|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986627059' by client 'Snow'(id:5)
+2017-11-26 13:42:51.536555|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'Snow'(id:5)
+2017-11-26 13:42:51.538548|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_87243971' by client 'Snow'(id:5)
+2017-11-26 13:42:51.539495|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'Snow'(id:5)
+2017-11-26 13:42:52.218231|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2477954463' by client 'Snow'(id:5)
+2017-11-26 13:43:01.062943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'Snow'(id:5)
+2017-11-26 13:43:01.062943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'Snow'(id:5)
+2017-11-26 13:43:01.062943|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'Snow'(id:5)
+2017-11-26 13:43:01.063884|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3993483088' by client 'Snow'(id:5)
+2017-11-26 13:43:01.063884|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'Snow'(id:5)
+2017-11-26 13:43:02.608860|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'Snow'(id:5)
+2017-11-26 13:43:02.645940|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_888699871' by client 'Snow'(id:5)
+2017-11-26 13:46:17.778780|INFO    |VirtualServerBase|1  |file upload to (id:20), '/FXServer.exe' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-26 14:03:42.191832|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'Snow'(id:5)
+2017-11-26 14:03:42.191832|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3062257508' by client 'Snow'(id:5)
+2017-11-26 14:03:42.192837|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_562027764' by client 'Snow'(id:5)
+2017-11-26 14:03:42.192837|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2198526597' by client 'Snow'(id:5)
+2017-11-26 14:03:42.192837|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1116735422' by client 'Snow'(id:5)
+2017-11-26 14:07:37.667639|INFO    |VirtualServerBase|1  |client disconnected 'Snow'(id:5) reason 'reasonmsg=Bye'
+2017-11-26 15:07:27.716316|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 101.182.47.81:54564
+2017-11-26 15:08:40.496574|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-11-26 16:26:14.992660|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-27 10:34:36.519017|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:58345
+2017-11-27 10:34:40.520011|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-27 10:34:42.879364|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:58345
+2017-11-27 10:34:45.674245|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-27 10:35:12.541444|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 96.50.116.227:64665
+2017-11-27 16:19:04.043437|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-11-27 17:54:42.052216|INFO    |VirtualServerBase|1  |client connected 'Snow'(id:5) from 208.102.111.220:49929
+2017-11-27 17:54:51.913551|INFO    |VirtualServerBase|1  |client disconnected 'Snow'(id:5) reason 'reasonmsg=Bye'
+2017-11-28 21:01:02.354024|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-11-28 21:01:02.359852|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=connection lost'
+2017-11-28 21:01:10.701691|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:60399
+2017-11-29 04:34:00.118623|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:50992
+2017-11-29 04:34:49.880334|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-29 08:08:41.870883|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.136.105.196:30027
+2017-11-29 08:08:45.344185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'FAXES'(id:7)
+2017-11-29 08:08:45.344185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'FAXES'(id:7)
+2017-11-29 08:08:45.344185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_674336617' by client 'FAXES'(id:7)
+2017-11-29 08:08:45.344185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_87243971' by client 'FAXES'(id:7)
+2017-11-29 08:08:45.344185|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'FAXES'(id:7)
+2017-11-29 08:08:47.405709|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2477954463' by client 'FAXES'(id:7)
+2017-11-29 08:08:47.405709|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_52966479' by client 'FAXES'(id:7)
+2017-11-29 08:08:50.642029|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'FAXES'(id:7)
+2017-11-29 08:08:53.806097|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3102975314' by client 'FAXES'(id:7)
+2017-11-29 08:08:53.844177|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'FAXES'(id:7)
+2017-11-29 08:08:53.844177|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'FAXES'(id:7)
+2017-11-29 08:08:53.844177|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_446998080' by client 'FAXES'(id:7)
+2017-11-29 08:08:53.845138|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3993483088' by client 'FAXES'(id:7)
+2017-11-29 08:08:55.315260|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'FAXES'(id:7)
+2017-11-29 08:08:55.400787|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'FAXES'(id:7)
+2017-11-29 08:08:56.524849|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_888699871' by client 'FAXES'(id:7)
+2017-11-29 08:09:01.306079|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-11-29 12:33:33.501388|INFO    |VirtualServerBase|1  |server was edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-29 12:33:42.124477|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-11-29 12:33:43.004352|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:60399
+2017-11-29 12:34:00.269002|INFO    |VirtualServerBase|1  |server was edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2017-11-29 12:34:04.436945|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-11-29 12:34:04.924275|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:60399
+2017-11-30 01:38:27.632249|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:52084
+2017-11-30 01:38:48.503358|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-11-30 06:47:21.519996|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2017-11-30 06:47:21.521026|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=connection lost'
+2017-12-01 07:19:53.455517|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:63202
+2017-12-01 07:21:00.706529|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.54.126.148:54866
+2017-12-01 07:22:56.863708|INFO    |VirtualServer |1  |ban added reason='being a cuckhold bitch who talks shit about somone cuz your an ass' cluid='A4zhgABvqWQXU6N4orGOlagzIXA=' bantime=0 by client 'DiamondBackEV'(id:14)
+2017-12-01 07:22:56.864669|INFO    |VirtualServer |1  |ban added reason='being a cuckhold bitch who talks shit about somone cuz your an ass' ip='68.54.224.177' bantime=0 by client 'DiamondBackEV'(id:14)
+2017-12-01 07:46:09.143978|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.152.110.168:62719
+2017-12-01 07:46:15.377433|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'FAXES'(id:7)
+2017-12-01 07:46:15.378365|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1116735422' by client 'FAXES'(id:7)
+2017-12-01 07:46:15.378365|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_808654778' by client 'FAXES'(id:7)
+2017-12-01 07:46:15.378365|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'FAXES'(id:7)
+2017-12-01 07:46:15.379341|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'FAXES'(id:7)
+2017-12-01 07:46:52.885201|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2477954463' by client 'DiamondBackEV'(id:14)
+2017-12-01 07:46:52.886168|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_52966479' by client 'DiamondBackEV'(id:14)
+2017-12-01 08:29:49.674282|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-12-01 08:30:04.613735|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-12-01 08:41:43.399838|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.152.110.168:16537
+2017-12-01 11:58:35.709429|INFO    |VirtualServerBase|1  |client connected '[1X-18] KevKilo9'(id:8) from 207.81.23.161:52056
+2017-12-01 11:58:54.541423|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2986627059' by client 'FAXES'(id:7)
+2017-12-01 11:58:54.541423|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2462758921' by client 'FAXES'(id:7)
+2017-12-01 11:58:54.541423|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4231751858' by client 'FAXES'(id:7)
+2017-12-01 11:58:54.541423|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2210940942' by client 'FAXES'(id:7)
+2017-12-01 12:43:37.294364|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-12-01 13:23:45.266124|INFO    |VirtualServerBase|1  |client disconnected '[1X-18] KevKilo9'(id:8) reason 'reasonmsg=leaving'
+2017-12-02 05:00:07.170383|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:49251
+2017-12-02 05:00:10.223146|INFO    |VirtualServerBase|1  |client connected 'Snow'(id:5) from 208.102.111.220:62604
+2017-12-02 05:00:10.685048|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_808654778' by client 'Snow'(id:5)
+2017-12-02 05:00:10.686031|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3104672644' by client 'Snow'(id:5)
+2017-12-02 06:13:34.972220|INFO    |VirtualServerBase|1  |client disconnected 'Snow'(id:5) reason 'reasonmsg=Bye'
+2017-12-02 07:48:33.141078|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-12-02 23:01:36.397177|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-12-02 23:24:13.287904|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:56800
+2017-12-02 23:24:29.866322|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-12-03 03:09:56.115985|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:53636
+2017-12-03 03:10:07.475290|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-12-04 01:46:08.928354|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:51510
+2017-12-04 01:46:26.725471|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-12-04 16:14:27.316091|INFO    |VirtualServerBase|1  |client connected 'Snow'(id:5) from 174.233.130.122:11423
+2017-12-04 16:14:35.958594|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3993483088' by client 'Snow'(id:5)
+2017-12-04 16:14:47.477200|INFO    |VirtualServerBase|1  |client disconnected 'Snow'(id:5) reason 'reasonmsg=....TS3 Android....'
+2017-12-05 06:00:14.359003|INFO    |VirtualServerBase|1  |client connected 'Snow'(id:5) from 174.233.130.122:11423
+2017-12-05 06:00:18.309225|INFO    |VirtualServerBase|1  |client disconnected 'Snow'(id:5) reason 'reasonmsg=....TS3 Android....'
+2017-12-06 00:17:49.326846|INFO    |VirtualServerBase|1  |client connected 'FAXES'(id:7) from 1.152.109.95:2133
+2017-12-06 00:18:31.676375|INFO    |VirtualServerBase|1  |client disconnected 'FAXES'(id:7) reason 'reasonmsg=See You Guys Later'
+2017-12-06 21:04:00.636316|INFO    |VirtualServerBase|1  |client connected 'DiamondBackEV'(id:14) from 70.30.133.222:56355
+2017-12-06 21:04:11.660794|INFO    |VirtualServerBase|1  |client disconnected 'DiamondBackEV'(id:14) reason 'reasonmsg=leaving'
+2017-12-07 01:31:01.279892|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:57700
+2017-12-07 01:31:39.348222|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'
+2017-12-07 05:45:55.572899|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) from 70.48.171.241:55574
+2017-12-07 13:32:34.874656|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2017-12-07 17:56:05.868771|INFO    |VirtualServerBase|1  |client connected 'Victor Ford | MW-17'(id:20) from 155.4.197.16:63822
+2017-12-07 17:57:10.987960|INFO    |VirtualServerBase|1  |client disconnected 'Victor Ford | MW-17'(id:20) reason 'reasonmsg=leaving'
+2017-12-07 17:57:53.274022|INFO    |VirtualServerBase|1  |client connected 'Victor Ford | MW-17'(id:20) from 155.4.197.16:63822
+2017-12-07 18:28:19.865883|INFO    |VirtualServerBase|1  |client disconnected 'Victor Ford | MW-17'(id:20) reason 'reasonmsg=leaving'
+2017-12-07 20:39:46.254515|INFO    |VirtualServerBase|1  |client connected '[1S-2] Jack Webber'(id:19) from 76.123.222.131:58423
+2017-12-07 20:39:57.957632|INFO    |VirtualServerBase|1  |client disconnected '[1S-2] Jack Webber'(id:19) reason 'reasonmsg=leaving'

@@ -1,0 +1,17 @@
+﻿2018-10-18 00:20:11.481095|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-19 16:19:42.706190|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:65443
+2018-10-19 17:38:31.599926|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-10-20 01:55:33.242739|INFO    |VirtualServerBase|1  |client connected 'The_GreatOne'(id:28) from 45.72.218.208:60982
+2018-10-20 01:55:34.630654|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'The_GreatOne'(id:28)
+2018-10-20 01:55:36.104577|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'The_GreatOne'(id:28)
+2018-10-20 01:55:42.132192|INFO    |VirtualServerBase|1  |client disconnected 'The_GreatOne'(id:28) reason 'reasonmsg=leaving'
+2018-10-21 02:35:23.406953|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:62177
+2018-10-21 03:04:51.955826|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-10-22 02:01:41.170513|INFO    |VirtualServerBase|1  |client connected 'Trout'(id:29) from 184.151.37.140:21032
+2018-10-22 02:01:41.388443|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Trout'(id:29)
+2018-10-22 02:01:41.514435|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Trout'(id:29)
+2018-10-22 02:04:08.799481|INFO    |VirtualServerBase|1  |client connected 'Tobruk'(id:30) from 76.71.213.198:52575
+2018-10-22 02:04:08.974417|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Tobruk'(id:30)
+2018-10-22 02:04:09.035444|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Tobruk'(id:30)
+2018-10-22 05:39:25.935326|INFO    |VirtualServerBase|1  |client disconnected 'Trout'(id:29) reason 'reasonmsg=leaving'
+2018-10-22 05:39:55.568530|INFO    |VirtualServerBase|1  |client disconnected 'Tobruk'(id:30) reason 'reasonmsg=leaving'

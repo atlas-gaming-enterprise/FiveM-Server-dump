@@ -1,0 +1,83 @@
+﻿2018-10-24 23:32:20.268971|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
+2018-10-24 23:32:24.567705|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:56339
+2018-10-25 03:50:55.013009|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-10-29 03:05:24.906531|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:52263
+2018-10-29 06:28:29.585552|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-10-30 17:54:12.559607|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:60377
+2018-10-30 17:54:34.975236|INFO    |VirtualServerBase|1  |client connected 'D. Memphis'(id:18) using a myTeamSpeak ID from 81.186.253.61:50843
+2018-10-30 18:16:45.746832|INFO    |VirtualServerBase|1  |client disconnected 'D. Memphis'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-10-30 18:37:32.455572|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-10-30 21:07:04.730739|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:50843
+2018-10-30 21:08:13.544529|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-10-31 01:55:31.758392|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:58136
+2018-10-31 05:13:57.545629|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-10-31 22:29:46.397884|INFO    |VirtualServerBase|1  |client connected 'Antonio'(id:31) using a myTeamSpeak ID from 172.98.79.202:59667
+2018-10-31 22:29:49.649689|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'Antonio'(id:31)
+2018-10-31 22:29:49.887670|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'Antonio'(id:31)
+2018-10-31 22:29:50.387699|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'Antonio'(id:31)
+2018-10-31 22:29:50.388639|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_3963302091' by client 'Antonio'(id:31)
+2018-10-31 22:29:50.394668|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2013348012' by client 'Antonio'(id:31)
+2018-10-31 22:29:52.228563|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_334483102' by client 'Antonio'(id:31)
+2018-10-31 22:29:53.047533|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_763733025' by client 'Antonio'(id:31)
+2018-10-31 22:30:24.297622|INFO    |VirtualServerBase|1  |client disconnected 'Antonio'(id:31) reason 'reasonmsg=leaving'
+2018-11-01 21:13:49.988566|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:63251
+2018-11-01 21:14:12.626185|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:64536
+2018-11-01 21:27:21.179947|INFO    |VirtualServerBase|1  |client connected 'NelsonKuroki'(id:32) from 99.248.139.47:50920
+2018-11-01 21:27:21.315918|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4104371695' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:23.181765|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1913523921' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:23.187807|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4130422297' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:23.187807|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2199110935' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:23.187807|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1214444705' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:23.188764|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_4145596773' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.215703|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1815735829' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.220702|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1483396842' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.220702|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1529263021' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.220702|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_888699871' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.220702|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2882935176' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.279772|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_960848581' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.331751|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_1805427825' by client 'NelsonKuroki'(id:32)
+2018-11-01 21:27:24.357749|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_2642770149' by client 'NelsonKuroki'(id:32)
+2018-11-01 22:09:48.822105|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-01 22:41:32.552655|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:62744
+2018-11-01 22:44:47.521715|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-01 22:45:02.956784|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:50022
+2018-11-01 22:46:26.074642|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-01 23:15:49.990800|INFO    |VirtualServerBase|1  |client disconnected 'NelsonKuroki'(id:32) reason 'reasonmsg=leaving'
+2018-11-01 23:20:44.156752|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:50022
+2018-11-01 23:36:27.308106|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-02 00:30:13.934724|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-11-02 12:32:12.580944|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:63096
+2018-11-02 12:34:10.930646|INFO    |VirtualServerBase|1  |channel 'US Marshal Service'(id:119) created as sub channel of 'Department of Homeland Security'(id:87) by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:34:24.206895|INFO    |VirtualServerBase|1  |channel 'DEA'(id:120) created as sub channel of 'Department of Homeland Security'(id:87) by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:34:28.261647|INFO    |VirtualServerBase|1  |channel 'DEA'(id:120) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:34:36.776125|INFO    |VirtualServerBase|1  |channel 'Fire & Rescue Director -'(id:86) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:34:42.107756|INFO    |VirtualServerBase|1  |channel 'Traffic Enforcement -'(id:68) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:35:03.448494|INFO    |VirtualServerBase|1  |channel 'Subdivisions (CLOSED)'(id:57) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:35:13.743847|INFO    |VirtualServerBase|1  |channel 'San Andreas State Police (CLOSED)'(id:49) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:35:25.900060|INFO    |VirtualServerBase|1  |channel 'Sergeant's Office - Vacant'(id:56) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:35:32.938689|INFO    |VirtualServerBase|1  |channel 'San Andreas Police (CLOSED)'(id:47) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:35:51.648545|INFO    |VirtualServerBase|1  |channel 'San Andreas State Police (OPEN)'(id:49) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:36:13.402205|INFO    |VirtualServerBase|1  |channel 'Department of Homeland Security (CLOSED)'(id:87) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:36:27.575347|INFO    |VirtualServerBase|1  |channel 'Department of Homeland Security (CLOSED)'(id:87) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:36:40.804479|INFO    |VirtualServerBase|1  |channel 'Disciplinary Admin -'(id:79) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:37:10.976693|INFO    |VirtualServerBase|1  |channel 'Lead Admin - Vacent'(id:101) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:37:44.632631|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-11-02 12:37:44.771566|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:63096
+2018-11-02 12:38:00.831583|INFO    |VirtualServerBase|1  |channel '[spacer9]• CAD/MDT System'(id:118) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:38:52.632471|INFO    |VirtualServerBase|1  |channel '[spacer0]• FiveM Car List'(id:26) edited by 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 12:38:54.667347|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-11-02 17:59:19.182303|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:58632
+2018-11-02 20:55:05.840416|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_85368941' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-02 23:53:06.713045|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-11-04 18:22:22.295718|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:64846
+2018-11-04 18:23:14.370561|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-04 20:26:42.893354|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:64846
+2018-11-04 20:40:52.416389|INFO    |VirtualServerBase|1  |client connected 'Radcrazykid2 | 1-L-40'(id:4) using a myTeamSpeak ID from 99.248.139.47:51736
+2018-11-04 20:41:09.176414|INFO    |VirtualServerBase|1  |file download from (id:0), '/icon_85368941' by client 'Radcrazykid2 | 1-L-40'(id:4)
+2018-11-04 21:12:26.859508|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-04 21:15:52.465929|INFO    |VirtualServerBase|1  |client 'Radcrazykid2 | 1-L-40'(id:4) changed myTeamSpeak ID
+2018-11-05 00:02:43.699344|INFO    |VirtualServerBase|1  |client disconnected 'Radcrazykid2 | 1-L-40'(id:4) reason 'reasonmsg=leaving'
+2018-11-12 18:14:52.076764|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:54953
+2018-11-12 18:14:53.639673|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'
+2018-11-12 19:09:12.946301|INFO    |VirtualServerBase|1  |client connected 'K2K'(id:18) using a myTeamSpeak ID from 81.186.253.61:54953
+2018-11-12 19:58:35.033106|INFO    |VirtualServerBase|1  |client disconnected 'K2K'(id:18) reason 'reasonmsg=F*** you all im going wanking'

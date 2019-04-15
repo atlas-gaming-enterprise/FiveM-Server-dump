@@ -1,0 +1,78 @@
+﻿2019-01-11 15:11:34.208747|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2019-01-11 15:11:34.208747|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2019-01-11 15:11:34.208747|INFO    |ServerLibPriv |   |Using hardware aes
+2019-01-11 15:11:34.209768|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2019-01-11 15:11:34.210725|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2019-01-11 15:11:34.210725|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2019-01-11 15:11:34.244723|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |Licensing Information
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |licensed to       : Anonymous
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |type              : No License
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |max virtualservers: 1
+2019-01-11 15:11:34.250762|INFO    |Accounting    |   |max slots         : 32
+2019-01-11 15:11:34.332717|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-11 15:11:37.103596|INFO    |              |   |Puzzle precompute time: 2831
+2019-01-11 15:11:37.105540|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2019-01-11 15:11:37.191534|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2019-01-11 15:11:37.191534|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2019-01-12 15:11:20.185514|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-13 15:11:20.271790|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-14 15:11:20.363694|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-15 15:11:20.529039|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-16 15:11:23.351066|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-17 15:11:23.387567|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-18 15:11:23.474893|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-19 15:11:23.638350|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-20 15:11:23.790463|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-21 15:11:23.878748|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-22 15:11:26.779931|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-23 15:11:27.230174|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-24 15:11:27.334505|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-25 15:11:27.562700|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-26 15:11:27.698455|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-27 15:11:30.071191|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-28 15:11:30.158871|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-29 15:11:30.237111|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-30 15:11:30.448359|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-31 15:11:32.595661|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-01 00:02:34.244017|INFO    |VirtualSvrMgr |   |executing monthly interval
+2019-02-01 00:02:34.535941|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2019-02-01 06:30:31.266586|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2019-02-01 06:30:33.213423|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2019-02-01 06:30:35.136313|ERROR   |              |   |TS3ANetwork::Recv failed error: 10054
+2019-02-01 15:11:32.699931|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-02 15:11:32.792154|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-03 15:11:32.867362|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-04 15:11:33.264684|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-04 18:21:17.066497|ERROR   |              |   |TS3ANetwork::ResolveHostName failed error: 11001 (No such host is known. ) 11001
+2019-02-04 18:31:15.060633|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2019-02-04 18:31:15.060633|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2019-02-04 18:31:17.078501|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2019-02-04 18:31:17.078501|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2019-02-05 15:11:35.257592|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-06 15:11:35.490807|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-07 15:11:35.574066|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-08 15:11:35.677363|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-09 15:11:35.753576|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-10 15:11:38.137297|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-11 15:11:38.235491|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-12 15:11:38.313823|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-13 15:11:38.563084|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-13 21:43:00.526291|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2019-02-13 21:43:00.526291|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2019-02-14 15:11:38.658295|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-15 15:11:38.812624|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-16 15:11:41.285181|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-17 15:11:41.390447|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-18 15:11:41.478143|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-19 15:11:41.560355|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-20 15:11:41.757696|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-21 15:11:41.840921|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-22 15:11:44.037580|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-23 15:11:44.120865|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-24 15:11:44.204145|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-25 15:11:44.285086|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-26 15:11:44.372395|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-02-27 15:11:46.877755|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

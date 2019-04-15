@@ -1,0 +1,21 @@
+﻿2019-01-11 00:10:43.250757|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2019-01-11 00:10:43.252753|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2019-01-11 00:10:43.252753|INFO    |ServerLibPriv |   |Using hardware aes
+2019-01-11 00:10:43.255757|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2019-01-11 00:10:43.255757|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2019-01-11 00:10:43.256753|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2019-01-11 00:10:43.371749|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2019-01-11 00:10:43.412742|INFO    |Accounting    |   |Licensing Information
+2019-01-11 00:10:43.413799|INFO    |Accounting    |   |licensed to       : Anonymous
+2019-01-11 00:10:43.413799|INFO    |Accounting    |   |type              : No License
+2019-01-11 00:10:43.413799|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2019-01-11 00:10:43.413799|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2019-01-11 00:10:43.413799|INFO    |Accounting    |   |max virtualservers: 1
+2019-01-11 00:10:43.413799|INFO    |Accounting    |   |max slots         : 32
+2019-01-11 00:10:43.925710|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2019-01-11 00:10:49.774361|INFO    |              |   |Puzzle precompute time: 6298
+2019-01-11 00:10:49.911386|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2019-01-11 00:10:49.912345|INFO    |VirtualSvrMgr |   |executing monthly interval
+2019-01-11 00:10:49.937366|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2019-01-11 00:10:50.569305|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2019-01-11 00:10:50.591304|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 

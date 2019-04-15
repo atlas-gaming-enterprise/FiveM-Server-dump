@@ -1,0 +1,45 @@
+﻿2018-10-24 23:32:15.254274|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.4.0 (2018-09-10 07:29:44)
+2018-10-24 23:32:15.254274|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (17134) x64 (AMD or Intel) Binary: 64bit
+2018-10-24 23:32:15.254274|INFO    |ServerLibPriv |   |Using hardware aes
+2018-10-24 23:32:15.256277|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2018-10-24 23:32:15.257277|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2018-10-24 23:32:15.257277|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2018-10-24 23:32:15.310273|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2018-10-24 23:32:15.340270|INFO    |Accounting    |   |Licensing Information
+2018-10-24 23:32:15.340270|INFO    |Accounting    |   |licensed to       : Anonymous
+2018-10-24 23:32:15.340270|INFO    |Accounting    |   |type              : No License
+2018-10-24 23:32:15.341269|INFO    |Accounting    |   |starting date     : Sun Jul  1 00:00:00 2018
+2018-10-24 23:32:15.341269|INFO    |Accounting    |   |ending date       : Wed Jul 31 00:00:00 2019
+2018-10-24 23:32:15.341269|INFO    |Accounting    |   |max virtualservers: 1
+2018-10-24 23:32:15.341269|INFO    |Accounting    |   |max slots         : 32
+2018-10-24 23:32:15.470263|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-24 23:32:19.689003|INFO    |              |   |Puzzle precompute time: 4313
+2018-10-24 23:32:19.779002|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2018-10-24 23:32:20.304969|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2018-10-24 23:32:20.326968|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2018-10-25 23:32:15.556116|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-26 23:32:17.784997|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-27 23:32:17.887867|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-28 23:32:18.290737|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-29 23:32:18.079670|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-30 23:32:18.203200|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-10-31 23:32:18.304440|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-01 00:02:15.308457|INFO    |VirtualSvrMgr |   |executing monthly interval
+2018-11-01 00:02:15.309458|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2018-11-01 23:32:18.514319|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-02 20:55:05.906404|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-11-02 23:32:20.768258|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-03 23:32:20.825133|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-04 20:41:09.570381|INFO    |              |   |Error opening file "files\virtualserver_1\internal\icons/icon_85368941": The system cannot find the file specified.
+                                                       
+2018-11-04 23:32:21.015797|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-05 23:32:21.165106|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-06 23:32:21.234021|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-07 23:32:21.345931|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-08 23:32:21.786824|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-09 23:32:21.888736|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-10 23:32:22.070643|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-11 23:32:22.184553|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-12 23:32:22.290466|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2018-11-13 23:32:22.392378|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated

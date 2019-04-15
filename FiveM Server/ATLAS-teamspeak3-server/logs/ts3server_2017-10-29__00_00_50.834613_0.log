@@ -1,0 +1,16 @@
+﻿2017-10-29 00:00:50.834613|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.13.8 (2017-07-19 08:26:51)
+2017-10-29 00:00:50.835509|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2012 R2 (9600) x64 (AMD or Intel) Binary: 64bit
+2017-10-29 00:00:50.835509|INFO    |ServerLibPriv |   |Using hardware aes
+2017-10-29 00:00:50.840357|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2017-10-29 00:00:50.841329|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2017-10-29 00:00:50.842307|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2017-10-29 00:00:50.856982|INFO    |SQL           |   |db_CreateTables() tables created
+2017-10-29 00:00:50.879449|WARNING |Accounting    |   |Unable to find valid license key, falling back to limited functionality
+2017-10-29 00:00:55.732014|INFO    |              |   |Puzzle precompute time: 4824
+2017-10-29 00:00:55.741772|INFO    |FileManager   |   |listening on 0.0.0.0:30033, :::30033
+2017-10-29 00:00:55.744729|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-10-29 00:00:55.744729|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2017-10-29 00:00:55.804249|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2017-10-29 00:00:55.805221|INFO    |Query         |   |listening on 0.0.0.0:10011, :::10011
+2017-11-01 00:00:50.879445|INFO    |VirtualSvrMgr |   |executing monthly interval
+2017-11-01 00:00:50.925321|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
