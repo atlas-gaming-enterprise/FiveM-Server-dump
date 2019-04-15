@@ -1,0 +1,1 @@
+SELECT revocation_key, revocation_expiration FROM revocations WHERE revocation_type = :revocation_type:;

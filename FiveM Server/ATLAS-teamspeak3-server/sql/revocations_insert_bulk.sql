@@ -1,0 +1,1 @@
+INSERT INTO revocations (revocation_key, revocation_type, revocation_expiration) VALUES (:revocation_key*:, :revocation_type:, :revocation_expiration:)[[[ ,(:revocation_key*:, :revocation_type:, :revocation_expiration:)]]];
