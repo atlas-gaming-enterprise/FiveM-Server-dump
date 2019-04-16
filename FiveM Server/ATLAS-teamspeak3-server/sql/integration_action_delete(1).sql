@@ -1,1 +1,0 @@
-delete from integration_actions where integration_action_id = :integration_action_id:;

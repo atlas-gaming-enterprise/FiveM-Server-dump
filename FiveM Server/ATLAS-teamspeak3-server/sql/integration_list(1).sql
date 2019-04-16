@@ -1,1 +1,0 @@
-select * from integrations where server_id = :server_id:;
