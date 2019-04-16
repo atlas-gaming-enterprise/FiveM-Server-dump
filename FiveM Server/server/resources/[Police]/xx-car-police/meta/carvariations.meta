@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MKEEZAY30-GTA REALISM 0.9.0 & DILAPIDATED-REALISM DISPATCH ENHANCED 3.0 (FEDERAL LAW ADDON)-->
+<CVehicleModelInfoVariation>
+  <variationData>
+<Item>
+<modelName>fbiinsurgent</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+12
+12
+13
+156
+</indices>
+<liveries>
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+12
+12
+13
+156
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+12
+12
+13
+156
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities>
+<Item>
+<Name>Federal Govt plate</Name>
+<Value value="100" />
+</Item>
+</Probabilities>
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="1" />
+</Item>	
+<Item>
+<modelName>fbiriot</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+12
+12
+13
+156
+</indices>
+<liveries>
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+12
+12
+13
+156
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities>
+<Item>
+<Name>Federal Govt plate</Name>
+<Value value="100" />
+</Item>
+</Probabilities>
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="1" />
+</Item>
+<Item>
+<modelName>fbi4</modelName>
+<colors>
+<Item>
+<indices>
+<Item value="0" />
+<Item value="0" />
+<Item value="3" />
+<Item value="156" />
+</indices>
+<liveries/>
+</Item>
+</colors>
+<kits>
+<Item>0_default_modkit</Item>
+</kits>
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities>
+<Item>
+<Name>police guv plate</Name>
+<Value value="100" />
+</Item>
+</Probabilities>
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="1" />
+</Item>
+<Item>
+<modelName>fbi3</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+111 
+0 
+1  
+156 
+</indices>
+<liveries>
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+111 
+0 
+1  
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+111 
+0 
+1  
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+111 
+0 
+1  
+156
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities>
+<Item>
+<Name>Federal Govt plate</Name>
+<Value value="100" />
+</Item>
+</Probabilities>
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="13" />
+</Item>
+<Item>
+<modelName>fbi5</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+0 
+0 
+0 
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+121 
+1 
+0 
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+5 
+1 
+111 
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+111 
+0 
+0 
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+110 
+0 
+110 
+156 
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities>
+<Item>
+<Name>Standard White</Name>
+<Value value="60" />
+</Item>
+<Item>
+<Name>White Plate 2</Name>
+<Value value="40" />
+</Item>
+</Probabilities>
+</plateProbabilities>
+<lightSettings value="13" />
+<sirenSettings value="13" />
+</Item> 
+<Item>
+<modelName>sheriff4</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+111 
+0 
+1 
+156 
+</indices>
+<liveries>
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+111 
+0 
+1
+156
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities />
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="1" />
+</Item>
+<Item>
+<modelName>sheriffold</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+0
+0
+11
+156	
+</indices>
+<liveries>
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+2
+0
+134
+156	
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+62
+0
+157
+156	
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+20
+0
+134
+0
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+<Item>
+<indices content="char_array">
+34
+0
+45
+0
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities />
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="13" />
+</Item>
+<Item>
+<modelName>pranger2</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+111
+0
+1
+156	
+</indices>
+<liveries>
+<Item value="true" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits />
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities />
+</plateProbabilities>
+<lightSettings value="1" />
+<sirenSettings value="1" />
+</Item>
+  </variationData>
+</CVehicleModelInfoVariation>
