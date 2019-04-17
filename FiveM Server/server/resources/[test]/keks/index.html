@@ -1,0 +1,66 @@
+<html>
+    <head id="headCon">
+        <link href="loadscreen.css" rel="stylesheet" type="text/css" />
+		<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+		<script src="login.js" type="text/javascript"></script>
+	<audio id="Loading" autoplay loop >
+         <source src="music/Loading.ogg" type="audio/ogg">
+    </audio>
+	<script>
+     var vid = document.getElementById("Loading");
+     vid.volume = 0.2
+    </script> 
+    </head>
+    <body id="bodyCon">
+        <div class="backdrop">
+            <div class="top">
+            </div>
+
+            <div class="letni">
+			<h1 style="color:blue;">Welcome To ATLAS Gaming Enterprise</h1>
+			<p>IF YOU RDM,VDM,FAIL RP YOU MAY BE PUNISHED</p>          
+			<p style="color:blue;">NO TROLLING OF ANY KIND</p>
+			<p>NO COPBAITING</p>
+			<p style="color:blue;">NO REVENGE KILLING(NLR ALWAYS IN EFFECT)</p>
+			<p>No Boosting of any kind, No health staking, No armor staking, No power or speed boosts</p>
+			<p style="color:blue;">PLEASE USE /ooc FOR OUT OF CHARACTER CHAT</p>
+			<p>ALL FiveM LICENSE PLATES ARE WANTED VEHICLE'S</P>
+			<p style="color:blue;">METAGAMING = KICK / BAN</p>
+			<p>No GTA:Online Horns.</p>
+			<p style="color:blue;">REALISTIC RP NAMES. ex: MARK AMBLER.<P>
+			<p>EXPLOSIVES / HEAVY WEAPONS = KICK / BAN</p>
+			<p style="color:red;">RESPECT ALL STAFF MEMBER'S</p>
+			<p style="color:red;">Admins are exempt from Roleplay</p>
+			<p style="color:red;">ADMIN'S HAVE LAST SAY</p>
+			<p style="color:red;">IF YOU ARE BANNED DO NOT MAKE A NEW ACCOUNT TO JOIN</p>
+			<p style="color:red;">More Rules on Teamspeak</p>
+			
+			    <h2 title="Loading...">Loading...</h2>
+                <div class="loadbar"><div class="thingy"></div></div>
+                <p>Made by: J. Lampher</p>
+            </div>
+            <div class="bottom">
+                <div id="gradient">
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+        var left = -10;
+
+        var self = function()
+        {
+            var elem = document.querySelector('.thingy');
+            left += (0.15 / 60) 10;
+            if (left >= 100)
+            {
+                left = -10;
+            }
+
+            elem.style.left = left + '%';
+            requestAnimationFrame(self);
+        };
+        requestAnimationFrame(self);
+        </script>
+    </body>
+</html>
