@@ -1,0 +1,2 @@
+Fri Sep 28 19:07:51 2018 => 1 mobile paid 5 the amount of 70000, user bank post-payment for 1 equals $2452150 and for 1 equals $356600
+Fri Oct  5 22:45:27 2018 => 1 mobile paid 5 the amount of 350000, user bank post-payment for 1 equals $2120450 and for 1 equals $350000

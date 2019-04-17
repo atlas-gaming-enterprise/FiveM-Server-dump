@@ -1,0 +1,8 @@
+Mon Sep 24 16:54:32 2018 => 1 fined 3 the amount of 100 for Just cause
+Tue Sep 25 23:26:45 2018 => 3 fined 5 the amount of 100 for Damage to property 
+Tue Sep 25 23:41:09 2018 => 3 fined 5 the amount of 1500 for disorderly conduct 
+Sat Oct  6 21:09:31 2018 => 1 fined 3 the amount of 100 for No
+Sat Oct  6 21:09:50 2018 => 1 fined 3 the amount of 100 for NOS FIX it ticket
+Wed Oct 17 17:57:57 2018 => 1 fined 3 the amount of 350 for Distracted Driving & Pissing me off
+Tue Oct 30 00:04:04 2018 => 3 fined 1 the amount of 10000 for IMPERSONATION, MURDER, WRECKLESS DRIVING, ASSAULT, BATTERY
+
